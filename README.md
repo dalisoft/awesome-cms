@@ -70,7 +70,7 @@ List of curated CMS, ERP and Admin dashboards
 | CiviCRM    |                | <https://github.com/civicrm>                | <http://civicrm.org>         | AGPL-v3.0 |
 | EspoCRM    | JS, PHP        | <https://github.com/espocrm/espocrm>        | <https://www.espocrm.com>    | AGPL-v3.0 |
 | monica     | Vue, PHP       | <https://github.com/monicahq/monica>        | <https://beta.monicahq.com>  | AGPL-v3.0 |
-| OrcoCRM    | PHP            | <https://github.com/oroinc/crm-application> | <https://oroinc.com/orocrm>  | OSL-3.0   |
+| OroCRM     | PHP            | <https://github.com/oroinc/crm-application> | <https://oroinc.com/orocrm>  | OSL-3.0   |
 | Salesforce | -              | -                                           | <https://www.salesforce.com> | -         |
 | SuiteCRM   | JS, PHP        | <https://github.com/SuiteCRM/SuiteCRM>      | <https://suitecrm.com>       | AGPL-v3.0 |
 | twenty     | React, Node.js | <https://github.com/twentyhq/twenty>        | <https://twenty.com>         | GPL-v3.0  |
