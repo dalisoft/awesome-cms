@@ -50,14 +50,15 @@ List of curated CMS, ERP and Admin dashboards
 
 ## CRM
 
-| Name           | Framework      | GitHub                                 | Website                     | License   |
-| -------------- | -------------- | -------------------------------------- | --------------------------- | --------- |
-| ERPNext        | Vue, Python    | <https://github.com/frappe/erpnext>    | <https://frappe.io/erpnext> | GPL-v3.0  |
-| EspoCRM        | JS, PHP        | <https://github.com/espocrm/espocrm>   | <https://www.espocrm.com>   | AGPL-v3.0 |
-| Odoo Community | Python         | <https://github.com/odoo/odoo>         | <https://www.odoo.com>      | GPL-v3.0  |
-| SuiteCRM       | JS, PHP        | <https://github.com/SuiteCRM/SuiteCRM> | <https://suitecrm.com>      | AGPL-v3.0 |
-| twenty         | React, Node.js | <https://github.com/twentyhq/twenty>   | <https://twenty.com>        | GPL-v3.0  |
-| CiviCRM        |                | <https://github.com/civicrm>           | <http://civicrm.org>        | AGPL-v3.0 |
+| Name           | Framework      | GitHub                                 | Website                      | License   |
+| -------------- | -------------- | -------------------------------------- | ---------------------------- | --------- |
+| CiviCRM        |                | <https://github.com/civicrm>           | <http://civicrm.org>         | AGPL-v3.0 |
+| ERPNext        | Vue, Python    | <https://github.com/frappe/erpnext>    | <https://frappe.io/erpnext>  | GPL-v3.0  |
+| EspoCRM        | JS, PHP        | <https://github.com/espocrm/espocrm>   | <https://www.espocrm.com>    | AGPL-v3.0 |
+| Odoo Community | Python         | <https://github.com/odoo/odoo>         | <https://www.odoo.com>       | GPL-v3.0  |
+| Salesforce     | -              | -                                      | <https://www.salesforce.com> | -         |
+| SuiteCRM       | JS, PHP        | <https://github.com/SuiteCRM/SuiteCRM> | <https://suitecrm.com>       | AGPL-v3.0 |
+| twenty         | React, Node.js | <https://github.com/twentyhq/twenty>   | <https://twenty.com>         | GPL-v3.0  |
 
 ## Low/No-code solutions
 
