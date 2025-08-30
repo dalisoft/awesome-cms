@@ -15,6 +15,7 @@ List of curated CMS, ERP and Admin dashboards
 | ----------- | -------------- | --------------------------------------------- | ---------------------------------- | --------- |
 | ActiveAdmin | Ruby-on-Rails  | <https://github.com/activeadmin/activeadmin>  | <https://activeadmin.info>         | MIT       |
 | AdminJS     | React, Node.js | <https://github.com/SoftwareBrothers/adminjs> | <https://adminjs.co>               | MIT       |
+| Lowdefy     | React, Node.js | <https://github.com/lowdefy/lowdefy>          | <https://lowdefy.com>              | BUSL-1.1  |
 | Motor Admin | Vue, Ruby      | <https://github.com/motor-admin/motor-admin>  | <https://www.getmotoradmin.com>    | AGPL-v3.0 |
 | react-admin | React, GraphQL | <https://github.com/marmelab/react-admin>     | <https://marmelab.com/react-admin> | MIT       |
 | refine      | React          | <https://github.com/refinedev/refine>         | <https://refine.dev>               | MIT       |
@@ -30,6 +31,7 @@ List of curated CMS, ERP and Admin dashboards
 | hygraph    | -              | -                                             | <https://hygraph.com>        | -            |
 | Keystone   | React, Node.js | <https://github.com/keystonejs/keystone>      | <https://keystonejs.com>     | MIT          |
 | Payload    | React, GraphQL | <https://github.com/payloadcms/payload>       | <https://payloadcms.com>     | MIT          |
+| Piranha    | C#             | <https://github.com/PiranhaCMS/piranha.core>  | <https://piranhacms.org>     | MIT          |
 | Sanity     | React          | <https://github.com/sanity-io/sanity>         | <https://www.sanity.io>      | MIT          |
 | squidex    | React, C#      | <https://github.com/Squidex/squidex>          | <https://squidex.io>         | MIT          |
 | Strapi     | React, Node.js | <https://github.com/strapi/strapi>            | <https://strapi.io>          | MIT\*        |
@@ -42,18 +44,26 @@ List of curated CMS, ERP and Admin dashboards
 | Name     | Framework    | GitHub                                 | Website               | License    |
 | -------- | ------------ | -------------------------------------- | --------------------- | ---------- |
 | Baserow  | Vue, Python  | <https://gitlab.com/baserow/baserow>   | <https://baserow.io>  | MIT        |
-| directus | Vue, Node.js | <https://github.com/directus/directus> | <https://directus.io> | BSL 1.1    |
+| directus | Vue, Node.js | <https://github.com/directus/directus> | <https://directus.io> | BUSL 1.1   |
 | nocodb   | Vue, Node.js | <https://github.com/nocodb/nocodb>     | <https://nocodb.com>  | AGPL-v3.0  |
 | rowy     | React        | <https://github.com/rowyio/rowy>       | <https://www.rowy.io> | Apache-2.0 |
+| teable   | React        | <https://github.com/teableio/teable>   | <https://teable.ai>   | AGPL-v3.0  |
 
 ## Traditional CMS
 
-| Name    | Framework      | GitHub                                  | Website                  | License     |
-| ------- | -------------- | --------------------------------------- | ------------------------ | ----------- |
-| Ghost   | React, Node.js | <https://github.com/TryGhost/Ghost>     | <https://ghost.org>      | MIT         |
-| Grav    | PHP            | <https://github.com/getgrav/grav>       | <https://getgrav.org>    | MIT         |
-| October | Vue, PHP       | <https://github.com/octobercms/october> | <https://octobercms.com> | Proprietary |
-| Winter  | PHP            | <https://github.com/wintercms/winter>   | <https://wintercms.com>  | MIT         |
+| Name        | Framework      | GitHub                                       | Website                   | License      |
+| ----------- | -------------- | -------------------------------------------- | ------------------------- | ------------ |
+| Bolt        | PHP            | <https://github.com/bolt/core>               | <https://boltcms.io>      | MIT          |
+| Djano       | jQuery, Python | <https://github.com/django-cms/django-cms>   | <https://django-cms.org>  | BSD-3-Claude |
+| Ghost       | React, Node.js | <https://github.com/TryGhost/Ghost>          | <https://ghost.org>       | MIT          |
+| Grav        | PHP            | <https://github.com/getgrav/grav>            | <https://getgrav.org>     | MIT          |
+| Joomla      | PHP            | <https://github.com/joomla/joomla-cms>       | <https://www.joomla.org>  | GPL-v2.0     |
+| October     | Vue, PHP       | <https://github.com/octobercms/october>      | <https://octobercms.com>  | Proprietary  |
+| ProcessWire | PHP            | <https://github.com/processwire/processwire> | <https://processwire.com> | MPL-2.0      |
+| Sulu        | PHP            | <https://github.com/sulu/sulu>               | <https://sulu.io>         | MIT          |
+| umbraco     | HTML+JS, C#    | <https://github.com/umbraco/Umbraco-CMS>     | <https://umbraco.com>     | MIT          |
+| Winter      | PHP            | <https://github.com/wintercms/winter>        | <https://wintercms.com>   | MIT          |
+| Wordpress   | PHP            | <https://github.com/WordPress/WordPress>     | <https://wordpress.org>   | GPL-v2.0     |
 
 ## ERP
 
@@ -82,6 +92,7 @@ List of curated CMS, ERP and Admin dashboards
 | ---------- | -------------- | ---------------------------------------------- | ------------------------------ | ---------- |
 | appsmith   | React, Java    | <https://github.com/appsmithorg/appsmith>      | <https://www.appsmith.com>     | Apache-2.0 |
 | Budibase   | Svelte         | <https://github.com/Budibase/budibase>         | <https://budibase.com>         | GPL-v3.0   |
+| NocoBase   | React, Node.js | <https://github.com/nocobase/nocobase>         | <https://www.nocobase.com>     | AGPL-v3.0  |
 | OpenBlocks | React, Java    | <https://github.com/openblocks-dev/openblocks> | <https://cloud.openblocks.dev> | AGPL-3.0   |
 | ToolJet    | React, Node.js | <https://github.com/ToolJet/ToolJet>           | <https://www.tooljet.ai>       | AGPL-v3.0  |
 
