@@ -27,6 +27,7 @@ List of curated CMS, ERP and Admin dashboards
 | Cockpit    | PHP            | <https://github.com/Cockpit-HQ/Cockpit>       | <https://getcockpit.com>     | MIT          |
 | Contentful | -              | -                                             | <https://www.contentful.com> | -            |
 | Decap      | React, Node.js | <https://github.com/decaporg/decap-cms>       | <https://decapcms.org>       | MIT          |
+| hygraph    | -              | -                                             | <https://hygraph.com>        | -            |
 | Keystone   | React, Node.js | <https://github.com/keystonejs/keystone>      | <https://keystonejs.com>     | MIT          |
 | Payload    | React, GraphQL | <https://github.com/payloadcms/payload>       | <https://payloadcms.com>     | MIT          |
 | Sanity     | React          | <https://github.com/sanity-io/sanity>         | <https://www.sanity.io>      | MIT          |
