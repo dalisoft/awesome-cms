@@ -1,6 +1,6 @@
 # awesome-cms
 
-List of curated CMS, ERP and Admin dashboards
+List of curated CMS, ERP and Admin CMS
 
 ## Other my awesome lists
 
@@ -9,7 +9,18 @@ List of curated CMS, ERP and Admin dashboards
 - [awesome-ai-coding](https://github.com/dalisoft/awesome-ai-coding)
 - [awesome-ui-libraries](https://github.com/dalisoft/awesome-ui-libraries)
 
-## Admin Dashboards
+## Contents
+
+- [Admin CMS](#admin-cms)
+- [Headless CMS](#headless-cms)
+- [DB-as-CMS](#db-as-cms)
+- [Traditional CMS](#traditional-cms)
+- [ERP](#erp)
+- [CRM](#crm)
+- [Low/no-code](#lowno-code-solutions)
+- [Frameworks](#frameworks)
+
+## Admin CMS
 
 | Name        | Framework      | GitHub                                        | Website                            | License  |
 | ----------- | -------------- | --------------------------------------------- | ---------------------------------- | -------- |
