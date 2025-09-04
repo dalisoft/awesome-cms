@@ -131,6 +131,7 @@ List of curated CMS, ERP and Admin CMS
 ## Resources
 
 - [awesome-headless-cms](https://github.com/n370/awesome-headless-cms)
+- [Headless CMS](https://jamstack.org/headless-cms)
 - [Headless Commerce](https://headlesscommerce.org)
 
 ---
