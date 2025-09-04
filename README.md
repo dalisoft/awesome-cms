@@ -15,6 +15,7 @@ List of curated CMS, ERP and Admin CMS
 - [Headless CMS](#headless-cms)
 - [DB-as-CMS](#db-as-cms)
 - [Traditional CMS](#traditional-cms)
+- [Code CMS](#code-cms)
 - [ERP](#erp)
 - [CRM](#crm)
 - [Low/no-code](#lowno-code-solutions)
@@ -39,6 +40,7 @@ List of curated CMS, ERP and Admin CMS
 | Cockpit    | PHP            | <https://github.com/Cockpit-HQ/Cockpit>       | <https://getcockpit.com>     | -                                                          | MIT          |
 | Contentful | -              | -                                             | <https://www.contentful.com> | [Yes](https://github.com/contentful/contentful-mcp-server) | -            |
 | Decap      | React, Node.js | <https://github.com/decaporg/decap-cms>       | <https://decapcms.org>       | -                                                          | MIT          |
+| dotCMS     | -              | -                                             | <https://www.dotcms.com>     | -                                                          | -            |
 | hygraph    | -              | -                                             | <https://hygraph.com>        | Yes                                                        | -            |
 | Keystone   | React, Node.js | <https://github.com/keystonejs/keystone>      | <https://keystonejs.com>     | -                                                          | MIT          |
 | Payload    | React, GraphQL | <https://github.com/payloadcms/payload>       | <https://payloadcms.com>     | -                                                          | MIT          |
@@ -52,29 +54,38 @@ List of curated CMS, ERP and Admin CMS
 
 ## DB-as-CMS
 
-| Name     | Framework    | Repository                             | Website               | MCP | License    |
-| -------- | ------------ | -------------------------------------- | --------------------- | --- | ---------- |
-| Baserow  | Vue, Python  | <https://gitlab.com/baserow/baserow>   | <https://baserow.io>  | -   | MIT        |
-| directus | Vue, Node.js | <https://github.com/directus/directus> | <https://directus.io> | -   | BUSL 1.1   |
-| nocodb   | Vue, Node.js | <https://github.com/nocodb/nocodb>     | <https://nocodb.com>  | -   | AGPL-3.0   |
-| rowy     | React        | <https://github.com/rowyio/rowy>       | <https://www.rowy.io> | -   | Apache-2.0 |
-| teable   | React        | <https://github.com/teableio/teable>   | <https://teable.ai>   | -   | AGPL-3.0   |
+| Name         | Framework      | Repository                                        | Website                   | MCP | License    |
+| ------------ | -------------- | ------------------------------------------------- | ------------------------- | --- | ---------- |
+| AtomicServer | Multiple, Rust | <https://github.com/atomicdata-dev/atomic-server> | <https://atomicserver.eu> |     | MIT        |
+| Baserow      | Vue, Python    | <https://gitlab.com/baserow/baserow>              | <https://baserow.io>      | -   | MIT        |
+| directus     | Vue, Node.js   | <https://github.com/directus/directus>            | <https://directus.io>     | -   | BUSL 1.1   |
+| nocodb       | Vue, Node.js   | <https://github.com/nocodb/nocodb>                | <https://nocodb.com>      | -   | AGPL-3.0   |
+| rowy         | React          | <https://github.com/rowyio/rowy>                  | <https://www.rowy.io>     | -   | Apache-2.0 |
+| teable       | React          | <https://github.com/teableio/teable>              | <https://teable.ai>       | -   | AGPL-3.0   |
 
 ## Traditional CMS
 
-| Name        | Framework      | Repository                                   | Website                   | MCP                                             | License      |
-| ----------- | -------------- | -------------------------------------------- | ------------------------- | ----------------------------------------------- | ------------ |
-| Bolt        | PHP            | <https://github.com/bolt/core>               | <https://boltcms.io>      | -                                               | MIT          |
-| Django      | jQuery, Python | <https://github.com/django-cms/django-cms>   | <https://django-cms.org>  | -                                               | BSD-3-Claude |
-| Ghost       | React, Node.js | <https://github.com/TryGhost/Ghost>          | <https://ghost.org>       | -                                               | MIT          |
-| Grav        | PHP            | <https://github.com/getgrav/grav>            | <https://getgrav.org>     | -                                               | MIT          |
-| Joomla      | PHP            | <https://github.com/joomla/joomla-cms>       | <https://www.joomla.org>  | -                                               | GPL-2.0      |
-| October     | Vue, PHP       | <https://github.com/octobercms/october>      | <https://octobercms.com>  | -                                               | Proprietary  |
-| ProcessWire | PHP            | <https://github.com/processwire/processwire> | <https://processwire.com> | -                                               | MPL-2.0      |
-| Sulu        | PHP            | <https://github.com/sulu/sulu>               | <https://sulu.io>         | -                                               | MIT          |
-| umbraco     | HTML+JS, C#    | <https://github.com/umbraco/Umbraco-CMS>     | <https://umbraco.com>     | -                                               | MIT          |
-| Winter      | PHP            | <https://github.com/wintercms/winter>        | <https://wintercms.com>   | -                                               | MIT          |
-| Wordpress   | PHP            | <https://github.com/WordPress/WordPress>     | <https://wordpress.org>   | [Yes](https://github.com/WordPress/mcp-adapter) | GPL-2.0      |
+| Name        | Framework       | Repository                                   | Website                   | MCP                                             | License      |
+| ----------- | --------------- | -------------------------------------------- | ------------------------- | ----------------------------------------------- | ------------ |
+| Bolt        | PHP             | <https://github.com/bolt/core>               | <https://boltcms.io>      | -                                               | MIT          |
+| Django      | jQuery, Python  | <https://github.com/django-cms/django-cms>   | <https://django-cms.org>  | -                                               | BSD-3-Claude |
+| Ghost       | React, Node.js  | <https://github.com/TryGhost/Ghost>          | <https://ghost.org>       | -                                               | MIT          |
+| Grav        | PHP             | <https://github.com/getgrav/grav>            | <https://getgrav.org>     | -                                               | MIT          |
+| Joomla      | PHP             | <https://github.com/joomla/joomla-cms>       | <https://www.joomla.org>  | -                                               | GPL-2.0      |
+| October     | Vue, PHP        | <https://github.com/octobercms/october>      | <https://octobercms.com>  | -                                               | Proprietary  |
+| Pico        | PHP             | <https://github.com/picocms/Pico>            | <https://picocms.org>     |                                                 | MIT          |
+| primo       | Svelte, Node.js | <https://github.com/palacms/palacms>         | <https://primocms.org>    |                                                 | MIT          |
+| ProcessWire | PHP             | <https://github.com/processwire/processwire> | <https://processwire.com> | -                                               | MPL-2.0      |
+| Sulu        | PHP             | <https://github.com/sulu/sulu>               | <https://sulu.io>         | -                                               | MIT          |
+| umbraco     | HTML+JS, C#     | <https://github.com/umbraco/Umbraco-CMS>     | <https://umbraco.com>     | -                                               | MIT          |
+| Winter      | PHP             | <https://github.com/wintercms/winter>        | <https://wintercms.com>   | -                                               | MIT          |
+| Wordpress   | PHP             | <https://github.com/WordPress/WordPress>     | <https://wordpress.org>   | [Yes](https://github.com/WordPress/mcp-adapter) | GPL-2.0      |
+
+## Code CMS
+
+| Name  | Framework  | Repository                           | Website               | MCP                                                     | License |
+| ----- | ---------- | ------------------------------------ | --------------------- | ------------------------------------------------------- | ------- |
+| Astro | JavaScript | <https://github.com/withastro/astro> | <https://astro.build> | [Yes](https://docs.astro.build/en/guides/build-with-ai) | MIT     |
 
 ## ERP
 
@@ -114,6 +125,13 @@ List of curated CMS, ERP and Admin CMS
 | Backstage  | React, Node.js | <https://github.com/backstage/backstage> | <https://backstage.io> | -   | Apache-2.0 |
 | Blitz      | React          | <https://github.com/blitz-js/blitz>      | <https://blitzjs.com>  | -   | MIT        |
 | RedwoodSDK | React, Node.js | <https://github.com/redwoodjs/sdk>       | <https://rwsdk.com>    | -   | MIT        |
+
+---
+
+## Resources
+
+- [awesome-headless-cms](https://github.com/n370/awesome-headless-cms)
+- [Headless Commerce](https://headlesscommerce.org)
 
 ---
 
