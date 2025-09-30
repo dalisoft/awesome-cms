@@ -2,6 +2,8 @@
 
 List of curated CMS, ERP and Admin CMS
 
+<a href="https://www.producthunt.com/products/awesome-cms?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-awesome&#0045;cms" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1011025&theme=light&t=1759241505151" alt="awesome&#0045;cms - List&#0032;of&#0032;curated&#0032;CMS&#0044;&#0032;ERP&#0032;and&#0032;Admin&#0032;dashboards | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Other my awesome lists
 
 - [awesome-hosting](https://github.com/dalisoft/awesome-hosting)
