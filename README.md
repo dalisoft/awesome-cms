@@ -1,6 +1,6 @@
 # awesome-cms
 
-List of curated CMS, ERP and Admin CMS
+List of curated CMS, ERP, LMS and Admin CMS
 
 <a href="https://www.producthunt.com/products/awesome-cms?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-awesome&#0045;cms" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1011025&theme=light&t=1759241505151" alt="awesome&#0045;cms - List&#0032;of&#0032;curated&#0032;CMS&#0044;&#0032;ERP&#0032;and&#0032;Admin&#0032;dashboards | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
@@ -20,6 +20,7 @@ List of curated CMS, ERP and Admin CMS
 - [Code CMS](#code-cms)
 - [ERP](#erp)
 - [CRM](#crm)
+- [LMS](#lms)
 - [Low/no-code](#lowno-code-solutions)
 - [Frameworks](#frameworks)
 
@@ -91,11 +92,12 @@ List of curated CMS, ERP and Admin CMS
 
 ## ERP
 
-| Name           | Framework   | Repository                             | Website                     | MCP | License  |
-| -------------- | ----------- | -------------------------------------- | --------------------------- | --- | -------- |
-| Dolibarr       | PHP         | <https://github.com/dolibarr/dolibarr> | <https://www.dolibarr.org>  | -   | GPL-3.0  |
-| ERPNext        | Vue, Python | <https://github.com/frappe/erpnext>    | <https://frappe.io/erpnext> | -   | GPL-3.0  |
-| Odoo Community | Python      | <https://github.com/odoo/odoo>         | <https://www.odoo.com>      | -   | LGPL-3.0 |
+| Name           | Framework   | Repository                             | Website                     | MCP | License    |
+| -------------- | ----------- | -------------------------------------- | --------------------------- | --- | ---------- |
+| Dolibarr       | PHP         | <https://github.com/dolibarr/dolibarr> | <https://www.dolibarr.org>  | -   | GPL-3.0    |
+| ERPNext        | Vue, Python | <https://github.com/frappe/erpnext>    | <https://frappe.io/erpnext> | -   | GPL-3.0    |
+| IOTA SDK       | Go, htmlx   | <https://github.com/iota-uz/iota-sdk>  | <https://www.iota.uz/en>    | -   | Apache-2.0 |
+| Odoo Community | Python      | <https://github.com/odoo/odoo>         | <https://www.odoo.com>      | -   | LGPL-3.0   |
 
 ## CRM
 
@@ -109,6 +111,13 @@ List of curated CMS, ERP and Admin CMS
 | SuiteCRM   | JS, PHP        | <https://github.com/SuiteCRM/SuiteCRM>      | <https://suitecrm.com>       | -   | AGPL-3.0 |
 | twenty     | React, Node.js | <https://github.com/twentyhq/twenty>        | <https://twenty.com>         | -   | GPL-3.0  |
 | YetiForce  | -              | -                                           | <https://yetiforce.com/en>   | -   | -        |
+
+## LMS
+
+| Name     | Framework  | Repository                                | Website               | MCP | License  |
+| -------- | ---------- | ----------------------------------------- | --------------------- | --- | -------- |
+| Moodle   | JS, PHP    | <https://github.com/moodle/moodle>        | <https://moodle.org>  | -   | GPL-3.0  |
+| Open edX | JS, Python | <https://github.com/openedx/edx-platform> | <https://openedx.org> | -   | AGPL-3.0 |
 
 ## Low/No-code solutions
 
