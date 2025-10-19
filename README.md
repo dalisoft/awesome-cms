@@ -119,6 +119,7 @@ List of curated CMS, ERP, LMS and Admin CMS
 | CiviCRM       |                | <https://github.com/civicrm>                  | <http://civicrm.org>          | -   | AGPL-3.0 |
 | EspoCRM       | JS, PHP        | <https://github.com/espocrm/espocrm>          | <https://www.espocrm.com>     | -   | AGPL-3.0 |
 | Frappe        | Python, Vue    | <https://github.com/frappe/crm>               | <https://frappe.io/crm>       | -   | AGPL-3.0 |
+| HubSpot 💲    | -              | -                                             | <https://www.hubspot.com>     | -   | -        |
 | IDURAR CRM    | React, Node.js | <https://github.com/idurar/idurar-erp-crm>    | <https://cloud.idurarapp.com> | -   | AGPL-3.0 |
 | Krayin        | Vue, PHP       | <https://github.com/krayin/laravel-crm>       | <https://krayincrm.com>       | -   | MIT      |
 | monica        | Vue, PHP       | <https://github.com/monicahq/monica>          | <https://beta.monicahq.com>   | -   | AGPL-3.0 |
@@ -129,7 +130,7 @@ List of curated CMS, ERP, LMS and Admin CMS
 | vtiger ⛔️    | PHP            | <https://github.com/vtiger-crm/vtigercrm>     | -                             | -   | SPL      |
 | X2CRM ⛔️     | PHP            | <https://github.com/X2Engine/X2CRM>           | <https://x2engine.com>        | -   | -        |
 | YetiForce     | -              | -                                             | <https://yetiforce.com/en>    | -   | -        |
-| Zoho CRM      | -              | -                                             | <https://www.zoho.com/crm>    | -   | -        |
+| Zoho CRM 💲   | -              | -                                             | <https://www.zoho.com/crm>    | -   | -        |
 
 ## LMS
 
