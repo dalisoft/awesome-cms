@@ -129,7 +129,7 @@ List of curated CMS, ERP, LMS and Admin CMS
 | Anubis         | React, Python    | <https://github.com/AnubisLMS/Anubis>        | <https://about.anubis-lms.io>        | -   | MIT           |
 | ATutor ⛔️     | PHP              | <https://github.com/atutor/ATutor>           | <https://atutor.github.io>           | -   | GPL-3.0       |
 | Canvas LMS     | Ruby, jQuery     | <https://github.com/instructure/canvas-lms>  | <https://www.instructure.com/canvas> | -   | AGPL-3.0      |
-| Chamilo        | PHP, Vue         | <https://github.com/chamilo/chamilo-lms>     | <https://chamilo.org>                | -   | GPL-3.0       |
+| Chamilo ⚠️     | PHP, Vue         | <https://github.com/chamilo/chamilo-lms>     | <https://chamilo.org>                | -   | GPL-3.0       |
 | ClassroomIO    | Svelte, Hono(JS) | <https://github.com/classroomio/classroomio> | <https://classroomio.com>            | -   | AGPL-3.0      |
 | CourseLit      | React, Node.js   | <https://github.com/codelitdev/courselit>    | <https://courselit.app>              | -   | AGPL-3.0      |
 | djangoCMS ⛔️  | Django           | <https://github.com/adilmohak/django-lms>    | -                                    | -   | MIT           |
@@ -138,16 +138,17 @@ List of curated CMS, ERP, LMS and Admin CMS
 | forma.lms      | PHP, jQuery      | <https://github.com/formalms/formalms>       | <https://www.formalms.org>           | -   | GPL-3.0       |
 | Frappe         | Python, Vue      | <https://github.com/frappe/lms>              | <https://frappe.io/learning>         | -   | AGPL-3.0      |
 | ILIAS          | PHP              | <https://github.com/ILIAS-eLearning/ILIAS>   | <https://www.ilias.de>               | -   | GPL-3.0       |
-| LearnHouse     | React, Python    | <https://github.com/learnhouse/learnhouse>   | <https://www.learnhouse.app>         | -   | AGPL-3.0      |
+| LearnHouse ⚠️  | React, Python    | <https://github.com/learnhouse/learnhouse>   | <https://www.learnhouse.app>         | -   | AGPL-3.0      |
 | Leemons        | Node.js          | <https://github.com/leemonade/leemons>       | <https://www.leemons.io>             | -   | Priprioritary |
 | Moodle         | JS, PHP          | <https://github.com/moodle/moodle>           | <https://moodle.org>                 | -   | GPL-3.0       |
 | odoo eLearning | Python           | <https://github.com/odoo/odoo>               | <https://www.odoo.com/app/elearning> | -   | LGPL-3.0      |
 | Open edX       | JS, Python       | <https://github.com/openedx/edx-platform>    | <https://openedx.org>                | -   | AGPL-3.0      |
 | Opigno ⛔️     | Drupal           | <https://github.com/opigno/opigno>           | <https://www.opigno.org>             | -   | -             |
+| pupilfirst     | Ruby             | <https://github.com/pupilfirst/pupilfirst>   | <https://www.pupilfirst.org>         | -   | MIT\*         |
 | RELATE         | Python           | <https://github.com/inducer/relate>          | <https://documen.tician.de/relate/>  | -   | MIT           |
 | Sakai          | Java             | <https://github.com/sakaiproject/sakai>      | <https://www.sakailms.org>           | -   | ECL-2.0       |
 | Sensei LMS     | WordPress, PHP   | <https://github.com/Automattic/sensei>       | <https://senseilms.com>              | -   | GPL-2.0       |
-| SkyLearn       | Python           | <https://github.com/SkyCascade/SkyLearn>     | -                                    | -   | MIT           |
+| SkyLearn ⚠️    | Python           | <https://github.com/SkyCascade/SkyLearn>     | -                                    | -   | MIT           |
 | talentlms 💲   | -                | -                                            | <https://www.talentlms.com/platform> | -   | -             |
 | ULEARN ⛔️     | React, Laravel   | <https://github.com/ulearnpro/ulearn>        | -                                    | -   | MIT           |
 
