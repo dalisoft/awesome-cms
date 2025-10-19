@@ -11,6 +11,15 @@ List of curated CMS, ERP, LMS and Admin CMS
 - [awesome-ai-coding](https://github.com/dalisoft/awesome-ai-coding)
 - [awesome-ui-libraries](https://github.com/dalisoft/awesome-ui-libraries)
 
+## Status
+
+- 💲 - Commercial or not OSS/FOSS
+- ✅ – Actively maintained
+- ⚠️ – Beta or in-development
+- ⛔️ – Unmaintained or deprecated
+- ❌ – Not working, scam or similar
+- Without badge – Not verified by author
+
 ## Contents
 
 - [Admin CMS](#admin-cms)
@@ -37,23 +46,23 @@ List of curated CMS, ERP, LMS and Admin CMS
 
 ## Headless CMS
 
-| Name       | Framework      | Repository                                    | Website                      | MCP                                                        | License      |
-| ---------- | -------------- | --------------------------------------------- | ---------------------------- | ---------------------------------------------------------- | ------------ |
-| Apostrophe | Vue, Node.js   | <https://github.com/apostrophecms/apostrophe> | <https://apostrophecms.com>  | -                                                          | MIT\*        |
-| Cockpit    | PHP            | <https://github.com/Cockpit-HQ/Cockpit>       | <https://getcockpit.com>     | -                                                          | MIT          |
-| Contentful | -              | -                                             | <https://www.contentful.com> | [Yes](https://github.com/contentful/contentful-mcp-server) | -            |
-| Decap      | React, Node.js | <https://github.com/decaporg/decap-cms>       | <https://decapcms.org>       | -                                                          | MIT          |
-| dotCMS     | -              | -                                             | <https://www.dotcms.com>     | -                                                          | -            |
-| hygraph    | -              | -                                             | <https://hygraph.com>        | Yes                                                        | -            |
-| Keystone   | React, Node.js | <https://github.com/keystonejs/keystone>      | <https://keystonejs.com>     | -                                                          | MIT          |
-| Payload    | React, GraphQL | <https://github.com/payloadcms/payload>       | <https://payloadcms.com>     | -                                                          | MIT          |
-| Piranha    | C#             | <https://github.com/PiranhaCMS/piranha.core>  | <https://piranhacms.org>     | -                                                          | MIT          |
-| Sanity     | React          | <https://github.com/sanity-io/sanity>         | <https://www.sanity.io>      | [Yes](https://github.com/sanity-io/sanity-mcp-server)      | MIT          |
-| squidex    | React, C#      | <https://github.com/Squidex/squidex>          | <https://squidex.io>         | -                                                          | MIT          |
-| Strapi     | React, Node.js | <https://github.com/strapi/strapi>            | <https://strapi.io>          | -                                                          | MIT\*        |
-| tinacms    | React, Node.js | <https://github.com/tinacms/tinacms>          | <https://tina.io>            | -                                                          | Apache-2.0   |
-| wagtail    | React, Python  | <https://github.com/wagtail/wagtail>          | <https://wagtail.org>        | -                                                          | BSD-3-Clause |
-| webiny-js  | React, Node.js | <https://github.com/webiny/webiny-js>         | <https://www.webiny.com>     | -                                                          | MIT\*        |
+| Name          | Framework      | Repository                                    | Website                      | MCP                                                        | License      |
+| ------------- | -------------- | --------------------------------------------- | ---------------------------- | ---------------------------------------------------------- | ------------ |
+| Apostrophe    | Vue, Node.js   | <https://github.com/apostrophecms/apostrophe> | <https://apostrophecms.com>  | -                                                          | MIT\*        |
+| Cockpit       | PHP            | <https://github.com/Cockpit-HQ/Cockpit>       | <https://getcockpit.com>     | -                                                          | MIT          |
+| Contentful 💲 | -              | -                                             | <https://www.contentful.com> | [Yes](https://github.com/contentful/contentful-mcp-server) | -            |
+| Decap         | React, Node.js | <https://github.com/decaporg/decap-cms>       | <https://decapcms.org>       | -                                                          | MIT          |
+| dotCMS 💲     | -              | -                                             | <https://www.dotcms.com>     | -                                                          | -            |
+| hygraph 💲    | -              | -                                             | <https://hygraph.com>        | Yes                                                        | -            |
+| Keystone      | React, Node.js | <https://github.com/keystonejs/keystone>      | <https://keystonejs.com>     | -                                                          | MIT          |
+| Payload       | React, GraphQL | <https://github.com/payloadcms/payload>       | <https://payloadcms.com>     | -                                                          | MIT          |
+| Piranha       | C#             | <https://github.com/PiranhaCMS/piranha.core>  | <https://piranhacms.org>     | -                                                          | MIT          |
+| Sanity        | React          | <https://github.com/sanity-io/sanity>         | <https://www.sanity.io>      | [Yes](https://github.com/sanity-io/sanity-mcp-server)      | MIT          |
+| squidex       | React, C#      | <https://github.com/Squidex/squidex>          | <https://squidex.io>         | -                                                          | MIT          |
+| Strapi        | React, Node.js | <https://github.com/strapi/strapi>            | <https://strapi.io>          | -                                                          | MIT\*        |
+| tinacms       | React, Node.js | <https://github.com/tinacms/tinacms>          | <https://tina.io>            | -                                                          | Apache-2.0   |
+| wagtail       | React, Python  | <https://github.com/wagtail/wagtail>          | <https://wagtail.org>        | -                                                          | BSD-3-Clause |
+| webiny-js     | React, Node.js | <https://github.com/webiny/webiny-js>         | <https://www.webiny.com>     | -                                                          | MIT\*        |
 
 ## DB-as-CMS
 
@@ -101,23 +110,46 @@ List of curated CMS, ERP, LMS and Admin CMS
 
 ## CRM
 
-| Name       | Framework      | Repository                                  | Website                      | MCP | License  |
-| ---------- | -------------- | ------------------------------------------- | ---------------------------- | --- | -------- |
-| CiviCRM    |                | <https://github.com/civicrm>                | <http://civicrm.org>         | -   | AGPL-3.0 |
-| EspoCRM    | JS, PHP        | <https://github.com/espocrm/espocrm>        | <https://www.espocrm.com>    | -   | AGPL-3.0 |
-| monica     | Vue, PHP       | <https://github.com/monicahq/monica>        | <https://beta.monicahq.com>  | -   | AGPL-3.0 |
-| OroCRM     | PHP            | <https://github.com/oroinc/crm-application> | <https://oroinc.com/orocrm>  | -   | OSL-3.0  |
-| Salesforce | -              | -                                           | <https://www.salesforce.com> | -   | -        |
-| SuiteCRM   | JS, PHP        | <https://github.com/SuiteCRM/SuiteCRM>      | <https://suitecrm.com>       | -   | AGPL-3.0 |
-| twenty     | React, Node.js | <https://github.com/twentyhq/twenty>        | <https://twenty.com>         | -   | GPL-3.0  |
-| YetiForce  | -              | -                                           | <https://yetiforce.com/en>   | -   | -        |
+| Name          | Framework      | Repository                                  | Website                      | MCP | License  |
+| ------------- | -------------- | ------------------------------------------- | ---------------------------- | --- | -------- |
+| CiviCRM       |                | <https://github.com/civicrm>                | <http://civicrm.org>         | -   | AGPL-3.0 |
+| EspoCRM       | JS, PHP        | <https://github.com/espocrm/espocrm>        | <https://www.espocrm.com>    | -   | AGPL-3.0 |
+| monica        | Vue, PHP       | <https://github.com/monicahq/monica>        | <https://beta.monicahq.com>  | -   | AGPL-3.0 |
+| OroCRM        | PHP            | <https://github.com/oroinc/crm-application> | <https://oroinc.com/orocrm>  | -   | OSL-3.0  |
+| Salesforce 💲 | -              | -                                           | <https://www.salesforce.com> | -   | -        |
+| SuiteCRM      | JS, PHP        | <https://github.com/SuiteCRM/SuiteCRM>      | <https://suitecrm.com>       | -   | AGPL-3.0 |
+| twenty        | React, Node.js | <https://github.com/twentyhq/twenty>        | <https://twenty.com>         | -   | GPL-3.0  |
+| YetiForce     | -              | -                                           | <https://yetiforce.com/en>   | -   | -        |
 
 ## LMS
 
-| Name     | Framework  | Repository                                | Website               | MCP | License  |
-| -------- | ---------- | ----------------------------------------- | --------------------- | --- | -------- |
-| Moodle   | JS, PHP    | <https://github.com/moodle/moodle>        | <https://moodle.org>  | -   | GPL-3.0  |
-| Open edX | JS, Python | <https://github.com/openedx/edx-platform> | <https://openedx.org> | -   | AGPL-3.0 |
+| Name           | Framework        | Repository                                   | Website                              | MCP | License       |
+| -------------- | ---------------- | -------------------------------------------- | ------------------------------------ | --- | ------------- |
+| absorb 💲      | -                | -                                            | <https://www.absorblms.com>          | -   | -             |
+| Anubis         | React, Python    | <https://github.com/AnubisLMS/Anubis>        | <https://about.anubis-lms.io>        | -   | MIT           |
+| ATutor ⛔️     | PHP              | <https://github.com/atutor/ATutor>           | <https://atutor.github.io>           | -   | GPL-3.0       |
+| Canvas LMS     | Ruby, jQuery     | <https://github.com/instructure/canvas-lms>  | <https://www.instructure.com/canvas> | -   | AGPL-3.0      |
+| Chamilo        | PHP, Vue         | <https://github.com/chamilo/chamilo-lms>     | <https://chamilo.org>                | -   | GPL-3.0       |
+| ClassroomIO    | Svelte, Hono(JS) | <https://github.com/classroomio/classroomio> | <https://classroomio.com>            | -   | AGPL-3.0      |
+| CourseLit      | React, Node.js   | <https://github.com/codelitdev/courselit>    | <https://courselit.app>              | -   | AGPL-3.0      |
+| djangoCMS ⛔️  | Django           | <https://github.com/adilmohak/django-lms>    | -                                    | -   | MIT           |
+| docebo 💲      | -                | -                                            | <https://www.docebo.com>             | -   | -             |
+| ELMS           | Drupal           | <https://github.com/elmsln/elmsln>           | -                                    | -   | GPL-3.0       |
+| forma.lms      | PHP, jQuery      | <https://github.com/formalms/formalms>       | <https://www.formalms.org>           | -   | GPL-3.0       |
+| Frappe         | Python, Vue      | <https://github.com/frappe/lms>              | <https://frappe.io/learning>         | -   | AGPL-3.0      |
+| ILIAS          | PHP              | <https://github.com/ILIAS-eLearning/ILIAS>   | <https://www.ilias.de>               | -   | GPL-3.0       |
+| LearnHouse     | React, Python    | <https://github.com/learnhouse/learnhouse>   | <https://www.learnhouse.app>         | -   | AGPL-3.0      |
+| Leemons        | Node.js          | <https://github.com/leemonade/leemons>       | <https://www.leemons.io>             | -   | Priprioritary |
+| Moodle         | JS, PHP          | <https://github.com/moodle/moodle>           | <https://moodle.org>                 | -   | GPL-3.0       |
+| odoo eLearning | Python           | <https://github.com/odoo/odoo>               | <https://www.odoo.com/app/elearning> | -   | LGPL-3.0      |
+| Open edX       | JS, Python       | <https://github.com/openedx/edx-platform>    | <https://openedx.org>                | -   | AGPL-3.0      |
+| Opigno ⛔️     | Drupal           | <https://github.com/opigno/opigno>           | <https://www.opigno.org>             | -   | -             |
+| RELATE         | Python           | <https://github.com/inducer/relate>          | <https://documen.tician.de/relate/>  | -   | MIT           |
+| Sakai          | Java             | <https://github.com/sakaiproject/sakai>      | <https://www.sakailms.org>           | -   | ECL-2.0       |
+| Sensei LMS     | WordPress, PHP   | <https://github.com/Automattic/sensei>       | <https://senseilms.com>              | -   | GPL-2.0       |
+| SkyLearn       | Python           | <https://github.com/SkyCascade/SkyLearn>     | -                                    | -   | MIT           |
+| talentlms 💲   | -                | -                                            | <https://www.talentlms.com/platform> | -   | -             |
+| ULEARN ⛔️     | React, Laravel   | <https://github.com/ulearnpro/ulearn>        | -                                    | -   | MIT           |
 
 ## Low/No-code solutions
 
