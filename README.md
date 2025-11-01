@@ -35,14 +35,15 @@ List of curated CMS, ERP, LMS and Admin CMS
 
 ## Admin CMS
 
-| Name        | Framework      | Repository                                    | Website                            | MCP | License  |
-| ----------- | -------------- | --------------------------------------------- | ---------------------------------- | --- | -------- |
-| ActiveAdmin | Ruby-on-Rails  | <https://github.com/activeadmin/activeadmin>  | <https://activeadmin.info>         | -   | MIT      |
-| AdminJS     | React, Node.js | <https://github.com/SoftwareBrothers/adminjs> | <https://adminjs.co>               | -   | MIT      |
-| Lowdefy     | React, Node.js | <https://github.com/lowdefy/lowdefy>          | <https://lowdefy.com>              | -   | BUSL-1.1 |
-| Motor Admin | Vue, Ruby      | <https://github.com/motor-admin/motor-admin>  | <https://www.getmotoradmin.com>    | -   | AGPL-3.0 |
-| react-admin | React, GraphQL | <https://github.com/marmelab/react-admin>     | <https://marmelab.com/react-admin> | -   | MIT      |
-| refine      | React          | <https://github.com/refinedev/refine>         | <https://refine.dev>               | -   | MIT      |
+| Name             | Framework      | Repository                                     | Website                                 | MCP | License  |
+| ---------------- | -------------- | ---------------------------------------------- | --------------------------------------- | --- | -------- |
+| ActiveAdmin      | Ruby-on-Rails  | <https://github.com/activeadmin/activeadmin>   | <https://activeadmin.info>              | -   | MIT      |
+| AdminJS          | React, Node.js | <https://github.com/SoftwareBrothers/adminjs>  | <https://adminjs.co>                    | -   | MIT      |
+| Lowdefy          | React, Node.js | <https://github.com/lowdefy/lowdefy>           | <https://lowdefy.com>                   | -   | BUSL-1.1 |
+| Motor Admin      | Vue, Ruby      | <https://github.com/motor-admin/motor-admin>   | <https://www.getmotoradmin.com>         | -   | AGPL-3.0 |
+| react-admin      | React, GraphQL | <https://github.com/marmelab/react-admin>      | <https://marmelab.com/react-admin>      | -   | MIT      |
+| refine           | React          | <https://github.com/refinedev/refine>          | <https://refine.dev>                    | -   | MIT      |
+| shadcn-admin-kit | React          | <https://github.com/marmelab/shadcn-admin-kit> | <https://marmelab.com/shadcn-admin-kit> | -   | MIT      |
 
 ## Headless CMS
 
