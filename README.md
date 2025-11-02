@@ -139,6 +139,7 @@ List of EMR<sup>[1](#status)</sup> (Electronic Medical Record) sorted by alphabe
 | Medplum         | React, Node.js | <https://github.com/medplum/medplum>                        | <https://www.medplum.com>     | -   | Apache-2.0 |
 | Metriport       | Node.js        | <https://github.com/metriport/metriport>                    | <https://metriport.com>       | -   | Apache-2.0 |
 | OpenEMR         | PHP, jQuery    | <https://github.com/openemr/openemr>                        | <https://www.open-emr.org>    | -   | GPL-3.0    |
+| OpenMRS         | Java           | <https://github.com/openmrs>                                | <https://openmrs.org>         | -   | MPL-2.0    |
 | Ozone HIS       | Java/Python    | <https://github.com/ozone-his/ozone>                        | <https://www.ozone-his.com>   | -   | MPL-2.0    |
 | TensorEMR       | React, Go/Node | <https://github.com/tensorsystems/tensoremr>                | -                             | -   | GPL-2.0    |
 | Topology Health | React, Node.js | <https://github.com/TopologyHealth>                         | <https://www.topology.health> | -   | Apache-2.0 |
