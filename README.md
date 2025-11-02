@@ -147,25 +147,26 @@ List of EMR<sup>[1](#status)</sup> (Electronic Medical Record) sorted by alphabe
 
 List of CRM<sup>[1](#status)</sup> (Customer Relationship Management) sorted by alphabetically
 
-| Name          | Framework      | Repository                                    | Website                       | MCP | License  |
-| ------------- | -------------- | --------------------------------------------- | ----------------------------- | --- | -------- |
-| Akaunting     | Vue, Laravel   | <https://github.com/akaunting/akaunting>      | <https://akaunting.com>       | -   | BSL-1.1  |
-| Axelor        | Java           | <https://github.com/axelor/axelor-open-suite> | <https://axelor.com/crm>      | -   | GPL-3.0  |
-| CiviCRM       |                | <https://github.com/civicrm>                  | <http://civicrm.org>          | -   | AGPL-3.0 |
-| EspoCRM       | JS, PHP        | <https://github.com/espocrm/espocrm>          | <https://www.espocrm.com>     | -   | AGPL-3.0 |
-| Frappe        | Python, Vue    | <https://github.com/frappe/crm>               | <https://frappe.io/crm>       | -   | AGPL-3.0 |
-| HubSpot 💲    | -              | -                                             | <https://www.hubspot.com>     | -   | -        |
-| IDURAR CRM    | React, Node.js | <https://github.com/idurar/idurar-erp-crm>    | <https://cloud.idurarapp.com> | -   | AGPL-3.0 |
-| Krayin        | Vue, PHP       | <https://github.com/krayin/laravel-crm>       | <https://krayincrm.com>       | -   | MIT      |
-| monica        | Vue, PHP       | <https://github.com/monicahq/monica>          | <https://beta.monicahq.com>   | -   | AGPL-3.0 |
-| OroCRM        | PHP            | <https://github.com/oroinc/crm-application>   | <https://oroinc.com/orocrm>   | -   | OSL-3.0  |
-| Salesforce 💲 | -              | -                                             | <https://www.salesforce.com>  | -   | -        |
-| SuiteCRM      | JS, PHP        | <https://github.com/SuiteCRM/SuiteCRM>        | <https://suitecrm.com>        | -   | AGPL-3.0 |
-| twenty        | React, Node.js | <https://github.com/twentyhq/twenty>          | <https://twenty.com>          | -   | GPL-3.0  |
-| vtiger ⛔️    | PHP            | <https://github.com/vtiger-crm/vtigercrm>     | -                             | -   | SPL      |
-| X2CRM ⛔️     | PHP            | <https://github.com/X2Engine/X2CRM>           | <https://x2engine.com>        | -   | -        |
-| YetiForce     | -              | -                                             | <https://yetiforce.com/en>    | -   | -        |
-| Zoho CRM 💲   | -              | -                                             | <https://www.zoho.com/crm>    | -   | -        |
+| Name          | Framework      | Repository                                    | Website                           | MCP | License  |
+| ------------- | -------------- | --------------------------------------------- | --------------------------------- | --- | -------- |
+| Akaunting     | Vue, Laravel   | <https://github.com/akaunting/akaunting>      | <https://akaunting.com>           | -   | BSL-1.1  |
+| Atomic CRM    | React, Node.js | <https://github.com/marmelab/atomic-crm>      | <https://marmelab.com/atomic-crm> | -   | MIT      |
+| Axelor        | Java           | <https://github.com/axelor/axelor-open-suite> | <https://axelor.com/crm>          | -   | GPL-3.0  |
+| CiviCRM       |                | <https://github.com/civicrm>                  | <http://civicrm.org>              | -   | AGPL-3.0 |
+| EspoCRM       | JS, PHP        | <https://github.com/espocrm/espocrm>          | <https://www.espocrm.com>         | -   | AGPL-3.0 |
+| Frappe        | Python, Vue    | <https://github.com/frappe/crm>               | <https://frappe.io/crm>           | -   | AGPL-3.0 |
+| HubSpot 💲    | -              | -                                             | <https://www.hubspot.com>         | -   | -        |
+| IDURAR CRM    | React, Node.js | <https://github.com/idurar/idurar-erp-crm>    | <https://cloud.idurarapp.com>     | -   | AGPL-3.0 |
+| Krayin        | Vue, PHP       | <https://github.com/krayin/laravel-crm>       | <https://krayincrm.com>           | -   | MIT      |
+| monica        | Vue, PHP       | <https://github.com/monicahq/monica>          | <https://beta.monicahq.com>       | -   | AGPL-3.0 |
+| OroCRM        | PHP            | <https://github.com/oroinc/crm-application>   | <https://oroinc.com/orocrm>       | -   | OSL-3.0  |
+| Salesforce 💲 | -              | -                                             | <https://www.salesforce.com>      | -   | -        |
+| SuiteCRM      | JS, PHP        | <https://github.com/SuiteCRM/SuiteCRM>        | <https://suitecrm.com>            | -   | AGPL-3.0 |
+| twenty        | React, Node.js | <https://github.com/twentyhq/twenty>          | <https://twenty.com>              | -   | GPL-3.0  |
+| vtiger ⛔️    | PHP            | <https://github.com/vtiger-crm/vtigercrm>     | -                                 | -   | SPL      |
+| X2CRM ⛔️     | PHP            | <https://github.com/X2Engine/X2CRM>           | <https://x2engine.com>            | -   | -        |
+| YetiForce     | -              | -                                             | <https://yetiforce.com/en>        | -   | -        |
+| Zoho CRM 💲   | -              | -                                             | <https://www.zoho.com/crm>        | -   | -        |
 
 ## LMS
 
