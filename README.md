@@ -95,8 +95,8 @@ List of Traditional CMS<sup>[1](#status)</sup> (Content Management System) sorte
 | Grav        | PHP             | <https://github.com/getgrav/grav>            | <https://getgrav.org>     | -                                               | MIT          |
 | Joomla      | PHP             | <https://github.com/joomla/joomla-cms>       | <https://www.joomla.org>  | -                                               | GPL-2.0      |
 | October     | Vue, PHP        | <https://github.com/octobercms/october>      | <https://octobercms.com>  | -                                               | Proprietary  |
-| Pico        | PHP             | <https://github.com/picocms/Pico>            | <https://picocms.org>     |                                                 | MIT          |
-| primo       | Svelte, Node.js | <https://github.com/palacms/palacms>         | <https://primocms.org>    |                                                 | MIT          |
+| Pico        | PHP             | <https://github.com/picocms/Pico>            | <https://picocms.org>     | -                                               | MIT          |
+| primo       | Svelte, Node.js | <https://github.com/palacms/palacms>         | <https://primocms.org>    | -                                               | MIT          |
 | ProcessWire | PHP             | <https://github.com/processwire/processwire> | <https://processwire.com> | -                                               | MPL-2.0      |
 | Sulu        | PHP             | <https://github.com/sulu/sulu>               | <https://sulu.io>         | -                                               | MIT          |
 | umbraco     | HTML+JS, C#     | <https://github.com/umbraco/Umbraco-CMS>     | <https://umbraco.com>     | -                                               | MIT          |
