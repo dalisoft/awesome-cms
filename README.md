@@ -28,6 +28,7 @@ List of curated CMS, ERP, LMS and Admin CMS
 - [Traditional CMS](#traditional-cms)
 - [Code CMS](#code-cms)
 - [ERP](#erp)
+- [EMR](#emr)
 - [CRM](#crm)
 - [LMS](#lms)
 - [Low/no-code](#lowno-code-solutions)
@@ -122,6 +123,24 @@ List of ERP<sup>[1](#status)</sup> (Enterprise Resource Planning) sorted by alph
 | IDURAR CRM     | React, Node.js | <https://github.com/idurar/idurar-erp-crm>    | <https://cloud.idurarapp.com> | -   | AGPL-3.0   |
 | IOTA SDK       | Go, htmlx      | <https://github.com/iota-uz/iota-sdk>         | <https://www.iota.uz/en>      | -   | Apache-2.0 |
 | Odoo Community | Python         | <https://github.com/odoo/odoo>                | <https://www.odoo.com>        | -   | LGPL-3.0   |
+
+## EMR
+
+List of EMR<sup>[1](#status)</sup> (Electronic Medical Record) sorted by alphabetically
+
+| Name            | Framework      | Repository                                                  | Website                       | MCP | License    |
+| --------------- | -------------- | ----------------------------------------------------------- | ----------------------------- | --- | ---------- |
+| Bahmni Apps     | AngularJS      | <https://github.com/Bahmni/openmrs-module-bahmniapps>       | <https://www.bahmni.org>      | -   | AGPL-3.0   |
+| Beda EMR        | React, Node.js | <https://github.com/beda-software/fhir-emr>                 | -                             | -   | MIT        |
+| Danphe EMR      | C#, jQuery     | <https://github.com/opensource-emr/hospital-management-emr> | -                             | -   | MIT        |
+| EMR             | React, Django  | <https://github.com/HukumaBob/emr>                          | -                             | -   | -          |
+| LL EMR          | Django         | <https://github.com/llemr-conspiracy/llemr>                 | -                             | -   | GPL-3.0    |
+| Medplum         | React, Node.js | <https://github.com/medplum/medplum>                        | <https://www.medplum.com>     | -   | Apache-2.0 |
+| Metriport       | Node.js        | <https://github.com/metriport/metriport>                    | <https://metriport.com>       | -   | Apache-2.0 |
+| OpenEMR         | PHP, jQuery    | <https://github.com/openemr/openemr>                        | <https://www.open-emr.org>    | -   | GPL-3.0    |
+| Ozone HIS       | Java/Python    | <https://github.com/ozone-his/ozone>                        | <https://www.ozone-his.com>   | -   | MPL-2.0    |
+| TensorEMR       | React, Go/Node | <https://github.com/tensorsystems/tensoremr>                | -                             | -   | GPL-2.0    |
+| Topology Health | React, Node.js | <https://github.com/TopologyHealth>                         | <https://www.topology.health> | -   | Apache-2.0 |
 
 ## CRM
 
