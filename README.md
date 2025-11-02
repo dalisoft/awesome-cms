@@ -35,7 +35,7 @@ List of curated CMS, ERP, LMS and Admin CMS
 
 ## Admin CMS
 
-List of Admin CMS<sup>[1](#status)</sup>( Content Management System for Admin Dashboards) sorted by alphabetically
+List of Admin CMS<sup>[1](#status)</sup> (Content Management System for Admin Dashboards) sorted by alphabetically
 
 | Name             | Framework      | Repository                                     | Website                                 | MCP | License  |
 | ---------------- | -------------- | ---------------------------------------------- | --------------------------------------- | --- | -------- |
