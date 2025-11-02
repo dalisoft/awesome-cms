@@ -46,6 +46,7 @@ List of Admin CMS<sup>[1](#status)</sup> (Content Management System for Admin Da
 | Motor Admin      | Vue, Ruby      | <https://github.com/motor-admin/motor-admin>   | <https://www.getmotoradmin.com>         | -   | AGPL-3.0 |
 | react-admin      | React, GraphQL | <https://github.com/marmelab/react-admin>      | <https://marmelab.com/react-admin>      | -   | MIT      |
 | refine           | React          | <https://github.com/refinedev/refine>          | <https://refine.dev>                    | -   | MIT      |
+| shadboard        | React          | <https://github.com/Qualiora/shadboard>        | <https://github.com/Qualiora/shadboard> | -   | MIT      |
 | shadcn-admin-kit | React          | <https://github.com/marmelab/shadcn-admin-kit> | <https://marmelab.com/shadcn-admin-kit> | -   | MIT      |
 
 ## Headless CMS
