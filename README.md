@@ -35,6 +35,8 @@ List of curated CMS, ERP, LMS and Admin CMS
 
 ## Admin CMS
 
+List of Admin CMS<sup>[1](#status)</sup> (Content Management System for Admin Dashboards) sorted by alphabetically
+
 | Name             | Framework      | Repository                                     | Website                                 | MCP | License  |
 | ---------------- | -------------- | ---------------------------------------------- | --------------------------------------- | --- | -------- |
 | ActiveAdmin      | Ruby-on-Rails  | <https://github.com/activeadmin/activeadmin>   | <https://activeadmin.info>              | -   | MIT      |
@@ -46,6 +48,8 @@ List of curated CMS, ERP, LMS and Admin CMS
 | shadcn-admin-kit | React          | <https://github.com/marmelab/shadcn-admin-kit> | <https://marmelab.com/shadcn-admin-kit> | -   | MIT      |
 
 ## Headless CMS
+
+List of Headless CMS<sup>[1](#status)</sup> (Headless Content Management System) sorted by alphabetically
 
 | Name          | Framework      | Repository                                    | Website                      | MCP                                                        | License      |
 | ------------- | -------------- | --------------------------------------------- | ---------------------------- | ---------------------------------------------------------- | ------------ |
@@ -67,6 +71,8 @@ List of curated CMS, ERP, LMS and Admin CMS
 
 ## DB-as-CMS
 
+List of DB-as-CMS<sup>[1](#status)</sup> (Database as a Content Management System) sorted by alphabetically
+
 | Name         | Framework      | Repository                                        | Website                   | MCP | License    |
 | ------------ | -------------- | ------------------------------------------------- | ------------------------- | --- | ---------- |
 | AtomicServer | Multiple, Rust | <https://github.com/atomicdata-dev/atomic-server> | <https://atomicserver.eu> |     | MIT        |
@@ -77,6 +83,8 @@ List of curated CMS, ERP, LMS and Admin CMS
 | teable       | React          | <https://github.com/teableio/teable>              | <https://teable.ai>       | -   | AGPL-3.0   |
 
 ## Traditional CMS
+
+List of Traditional CMS<sup>[1](#status)</sup> (Content Management System) sorted by alphabetically
 
 | Name        | Framework       | Repository                                   | Website                   | MCP                                             | License      |
 | ----------- | --------------- | -------------------------------------------- | ------------------------- | ----------------------------------------------- | ------------ |
@@ -96,11 +104,15 @@ List of curated CMS, ERP, LMS and Admin CMS
 
 ## Code CMS
 
+List of Code CMS<sup>[1](#status)</sup> (Content Management System) sorted by alphabetically
+
 | Name  | Framework  | Repository                           | Website               | MCP                                                     | License |
 | ----- | ---------- | ------------------------------------ | --------------------- | ------------------------------------------------------- | ------- |
 | Astro | JavaScript | <https://github.com/withastro/astro> | <https://astro.build> | [Yes](https://docs.astro.build/en/guides/build-with-ai) | MIT     |
 
 ## ERP
+
+List of ERP<sup>[1](#status)</sup> (Enterprise Resource Planning) sorted by alphabetically
 
 | Name           | Framework      | Repository                                    | Website                       | MCP | License    |
 | -------------- | -------------- | --------------------------------------------- | ----------------------------- | --- | ---------- |
@@ -112,6 +124,8 @@ List of curated CMS, ERP, LMS and Admin CMS
 | Odoo Community | Python         | <https://github.com/odoo/odoo>                | <https://www.odoo.com>        | -   | LGPL-3.0   |
 
 ## CRM
+
+List of CRM<sup>[1](#status)</sup> (Customer Relationship Management) sorted by alphabetically
 
 | Name          | Framework      | Repository                                    | Website                       | MCP | License  |
 | ------------- | -------------- | --------------------------------------------- | ----------------------------- | --- | -------- |
@@ -134,6 +148,8 @@ List of curated CMS, ERP, LMS and Admin CMS
 | Zoho CRM 💲   | -              | -                                             | <https://www.zoho.com/crm>    | -   | -        |
 
 ## LMS
+
+List of LMS<sup>[1](#status)</sup> (Learning Management System) sorted by alphabetically
 
 | Name           | Framework        | Repository                                   | Website                              | MCP | License       |
 | -------------- | ---------------- | -------------------------------------------- | ------------------------------------ | --- | ------------- |
@@ -166,6 +182,8 @@ List of curated CMS, ERP, LMS and Admin CMS
 
 ## Low/No-code solutions
 
+List of Low/No-code<sup>[1](#status)</sup> solutions sorted by alphabetically
+
 | Name       | Framework      | Repository                                     | Website                        | MCP | License    |
 | ---------- | -------------- | ---------------------------------------------- | ------------------------------ | --- | ---------- |
 | appsmith   | React, Java    | <https://github.com/appsmithorg/appsmith>      | <https://www.appsmith.com>     | -   | Apache-2.0 |
@@ -175,6 +193,8 @@ List of curated CMS, ERP, LMS and Admin CMS
 | ToolJet    | React, Node.js | <https://github.com/ToolJet/ToolJet>           | <https://www.tooljet.ai>       | -   | AGPL-3.0   |
 
 ## Frameworks
+
+List of frameworks<sup>[1](#status)</sup> sorted by alphabetically
 
 | Name       | Framework      | Repository                               | Website                | MCP | License    |
 | ---------- | -------------- | ---------------------------------------- | ---------------------- | --- | ---------- |
