@@ -48,6 +48,8 @@ List of Admin CMS<sup>[1](#status)</sup> (Content Management System for Admin Da
 | refine           | React          | <https://github.com/refinedev/refine>          | <https://refine.dev>                    | -   | MIT      |
 | shadboard        | React          | <https://github.com/Qualiora/shadboard>        | <https://github.com/Qualiora/shadboard> | -   | MIT      |
 | shadcn-admin-kit | React          | <https://github.com/marmelab/shadcn-admin-kit> | <https://marmelab.com/shadcn-admin-kit> | -   | MIT      |
+| Tailwindadmin    | Multiple       | <https://github.com/Tailwind-Admin/free-tailwind-admin-dashboard-template> | <https://tailwind-admin.com/> | -   | MIT      |
+
 
 ## Headless CMS
 
