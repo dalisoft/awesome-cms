@@ -32,6 +32,7 @@ List of curated CMS, ERP, LMS and Admin CMS
 - [CRM](#crm)
 - [LMS](#lms)
 - [Low/no-code](#lowno-code-solutions)
+- [Blog](#blog)
 - [Frameworks](#frameworks)
 
 ## Admin CMS
@@ -240,6 +241,15 @@ List of Low/No-code<sup>[1](#status)</sup> solutions sorted by alphabetically
 | Saltcorn     | Node.js        | <https://github.com/saltcorn/saltcorn>         | <https://saltcorn.com>         | -   | MIT        |
 | ToolJet      | React, Node.js | <https://github.com/ToolJet/ToolJet>           | <https://www.tooljet.ai>       | -   | AGPL-3.0   |
 | Windmill     | Svelte, Rust   | <https://github.com/windmill-labs/windmill>    | <https://www.windmill.dev>     | -   | AGPL-3.0   |
+
+## Blog
+
+List of Blog<sup>[1](#status)</sup> framework, tools or services sorted by alphabetically
+
+| Name        | Framework | Repository                               | Website                   | MCP | License |
+| ----------- | --------- | ---------------------------------------- | ------------------------- | --- | ------- |
+| Docusaurus  | React     | <https://github.com/facebook/docusaurus> | <https://docusaurus.io>   | -   | MIT     |
+| JustBlogged | -         | -                                        | <https://justblogged.com> | -   | -       |
 
 ## Frameworks
 
