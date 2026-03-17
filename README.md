@@ -62,7 +62,7 @@ List of Headless CMS<sup>[1](#status)</sup> (Headless Content Management System)
 | dotCMS        | Java           | <https://github.com/dotCMS/core>              | <https://www.dotcms.com>       | -                                                                   | GPL-3.0      |
 | hygraph 💲    | -              | -                                             | <https://hygraph.com>          | Yes                                                                 | -            |
 | Keystone      | React, Node.js | <https://github.com/keystonejs/keystone>      | <https://keystonejs.com>       | -                                                                   | MIT          |
-| LightCMS      | Go             | <https://github.com/jonradoff/lightcms>       | <https://metavert.io>          | [Yes (41 tools)](https://github.com/jonradoff/lightcms)             | MIT          |
+| LightCMS      | Go             | <https://github.com/jonradoff/lightcms>       | <https://metavert.io>          | Yes                                                                 | MIT          |
 | Orchard Core  | C#             | <https://github.com/OrchardCMS/OrchardCore>   | <https://docs.orchardcore.net> | -                                                                   | BSD-3-Clause |
 | Payload       | React, GraphQL | <https://github.com/payloadcms/payload>       | <https://payloadcms.com>       | [Yes](https://payloadcms.com/docs/plugins/mcp)                      | MIT          |
 | Piranha       | C#             | <https://github.com/PiranhaCMS/piranha.core>  | <https://piranhacms.org>       | -                                                                   | MIT          |
