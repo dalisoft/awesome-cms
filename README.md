@@ -73,7 +73,7 @@ List of Headless CMS<sup>[1](#status)</sup> (Headless Content Management System)
 | tinacms       | React, Node.js | <https://github.com/tinacms/tinacms>          | <https://tina.io>                            | -                                                                       | Apache-2.0   |
 | wagtail       | React, Python  | <https://github.com/wagtail/wagtail>          | <https://wagtail.org>                        | -                                                                       | BSD-3-Clause |
 | webiny-js     | React, Node.js | <https://github.com/webiny/webiny-js>         | <https://www.webiny.com>                     | -                                                                       | MIT\*        |
-| YunCMS        | React, Node.js | <https://github.com/Yunsoft-Software/yuncms>  | <https://github.com/Yunsoft-Software/yuncms> | [Yes](https://github.com/Yunsoft-Software/yuncms/blob/main/docs/mcp.md) | MIT          |
+| YunCMS        | React, Node.js | <https://github.com/Yunsoft-Software/yuncms>  | <https://yunsoft.com>                        | [Yes](https://github.com/Yunsoft-Software/yuncms/blob/main/docs/mcp.md) | MIT          |
 
 ## DB-as-CMS
 
