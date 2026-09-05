@@ -54,25 +54,26 @@ List of Admin CMS<sup>[1](#status)</sup> (Content Management System for Admin Da
 
 List of Headless CMS<sup>[1](#status)</sup> (Headless Content Management System) sorted by alphabetically
 
-| Name          | Framework      | Repository                                    | Website                        | MCP                                                                 | License      |
-| ------------- | -------------- | --------------------------------------------- | ------------------------------ | ------------------------------------------------------------------- | ------------ |
-| Apostrophe    | Vue, Node.js   | <https://github.com/apostrophecms/apostrophe> | <https://apostrophecms.com>    | -                                                                   | MIT\*        |
-| Cockpit       | PHP            | <https://github.com/Cockpit-HQ/Cockpit>       | <https://getcockpit.com>       | -                                                                   | MIT          |
-| Contentful 💲 | -              | -                                             | <https://www.contentful.com>   | [Yes](https://github.com/contentful/contentful-mcp-server)          | -            |
-| Decap         | React, Node.js | <https://github.com/decaporg/decap-cms>       | <https://decapcms.org>         | -                                                                   | MIT          |
-| dotCMS        | Java           | <https://github.com/dotCMS/core>              | <https://www.dotcms.com>       | -                                                                   | GPL-3.0      |
-| hygraph 💲    | -              | -                                             | <https://hygraph.com>          | Yes                                                                 | -            |
-| Keystone      | React, Node.js | <https://github.com/keystonejs/keystone>      | <https://keystonejs.com>       | -                                                                   | MIT          |
-| LightCMS      | Go             | <https://github.com/jonradoff/lightcms>       | <https://metavert.io>          | Yes                                                                 | MIT          |
-| Orchard Core  | C#             | <https://github.com/OrchardCMS/OrchardCore>   | <https://docs.orchardcore.net> | -                                                                   | BSD-3-Clause |
-| Payload       | React, GraphQL | <https://github.com/payloadcms/payload>       | <https://payloadcms.com>       | [Yes](https://payloadcms.com/docs/plugins/mcp)                      | MIT          |
-| Piranha       | C#             | <https://github.com/PiranhaCMS/piranha.core>  | <https://piranhacms.org>       | -                                                                   | MIT          |
-| Sanity        | React          | <https://github.com/sanity-io/sanity>         | <https://www.sanity.io>        | [Yes](https://github.com/sanity-io/sanity-mcp-server)               | MIT          |
-| squidex       | React, C#      | <https://github.com/Squidex/squidex>          | <https://squidex.io>           | -                                                                   | MIT          |
-| Strapi        | React, Node.js | <https://github.com/strapi/strapi>            | <https://strapi.io>            | [Yes](https://market.strapi.io/plugins/@sensinum-strapi-plugin-mcp) | MIT\*        |
-| tinacms       | React, Node.js | <https://github.com/tinacms/tinacms>          | <https://tina.io>              | -                                                                   | Apache-2.0   |
-| wagtail       | React, Python  | <https://github.com/wagtail/wagtail>          | <https://wagtail.org>          | -                                                                   | BSD-3-Clause |
-| webiny-js     | React, Node.js | <https://github.com/webiny/webiny-js>         | <https://www.webiny.com>       | -                                                                   | MIT\*        |
+| Name          | Framework      | Repository                                    | Website                                      | MCP                                                                     | License      |
+| ------------- | -------------- | --------------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------- | ------------ |
+| Apostrophe    | Vue, Node.js   | <https://github.com/apostrophecms/apostrophe> | <https://apostrophecms.com>                  | -                                                                       | MIT\*        |
+| Cockpit       | PHP            | <https://github.com/Cockpit-HQ/Cockpit>       | <https://getcockpit.com>                     | -                                                                       | MIT          |
+| Contentful 💲 | -              | -                                             | <https://www.contentful.com>                 | [Yes](https://github.com/contentful/contentful-mcp-server)              | -            |
+| Decap         | React, Node.js | <https://github.com/decaporg/decap-cms>       | <https://decapcms.org>                       | -                                                                       | MIT          |
+| dotCMS        | Java           | <https://github.com/dotCMS/core>              | <https://www.dotcms.com>                     | -                                                                       | GPL-3.0      |
+| hygraph 💲    | -              | -                                             | <https://hygraph.com>                        | Yes                                                                     | -            |
+| Keystone      | React, Node.js | <https://github.com/keystonejs/keystone>      | <https://keystonejs.com>                     | -                                                                       | MIT          |
+| LightCMS      | Go             | <https://github.com/jonradoff/lightcms>       | <https://metavert.io>                        | Yes                                                                     | MIT          |
+| Orchard Core  | C#             | <https://github.com/OrchardCMS/OrchardCore>   | <https://docs.orchardcore.net>               | -                                                                       | BSD-3-Clause |
+| Payload       | React, GraphQL | <https://github.com/payloadcms/payload>       | <https://payloadcms.com>                     | [Yes](https://payloadcms.com/docs/plugins/mcp)                          | MIT          |
+| Piranha       | C#             | <https://github.com/PiranhaCMS/piranha.core>  | <https://piranhacms.org>                     | -                                                                       | MIT          |
+| Sanity        | React          | <https://github.com/sanity-io/sanity>         | <https://www.sanity.io>                      | [Yes](https://github.com/sanity-io/sanity-mcp-server)                   | MIT          |
+| squidex       | React, C#      | <https://github.com/Squidex/squidex>          | <https://squidex.io>                         | -                                                                       | MIT          |
+| Strapi        | React, Node.js | <https://github.com/strapi/strapi>            | <https://strapi.io>                          | [Yes](https://market.strapi.io/plugins/@sensinum-strapi-plugin-mcp)     | MIT\*        |
+| tinacms       | React, Node.js | <https://github.com/tinacms/tinacms>          | <https://tina.io>                            | -                                                                       | Apache-2.0   |
+| wagtail       | React, Python  | <https://github.com/wagtail/wagtail>          | <https://wagtail.org>                        | -                                                                       | BSD-3-Clause |
+| webiny-js     | React, Node.js | <https://github.com/webiny/webiny-js>         | <https://www.webiny.com>                     | -                                                                       | MIT\*        |
+| YunCMS        | React, Node.js | <https://github.com/Yunsoft-Software/yuncms>  | <https://yunsoft.com>                        | [Yes](https://github.com/Yunsoft-Software/yuncms/blob/main/docs/mcp.md) | MIT          |
 
 ## DB-as-CMS
 
