@@ -171,6 +171,7 @@ List of CRM<sup>[1](#status)</sup> (Customer Relationship Management) sorted by 
 | Name          | Framework          | Repository                                      | Website                           | MCP | License    |
 | ------------- | ------------------ | ----------------------------------------------- | --------------------------------- | --- | ---------- |
 | Akaunting     | Vue, Laravel       | <https://github.com/akaunting/akaunting>        | <https://akaunting.com>           | -   | BSL-1.1    |
+| ArcSolar 💲   | -                  | -                                               | <https://www.arcsolar.com.au/>    | -   | -          |
 | Atomic CRM    | React, Node.js     | <https://github.com/marmelab/atomic-crm>        | <https://marmelab.com/atomic-crm> | -   | MIT        |
 | Axelor        | Java               | <https://github.com/axelor/axelor-open-suite>   | <https://axelor.com/crm>          | -   | GPL-3.0    |
 | CiviCRM       |                    | <https://github.com/civicrm>                    | <http://civicrm.org>              | -   | AGPL-3.0   |
