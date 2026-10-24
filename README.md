@@ -274,6 +274,7 @@ List of frameworks<sup>[1](#status)</sup> sorted by alphabetically
 - [awesome-headless-cms](https://github.com/n370/awesome-headless-cms)
 - [Headless CMS](https://jamstack.org/headless-cms)
 - [Headless Commerce](https://headlesscommerce.org)
+- [CMS Statistics 2026](https://www.stackscan.com/blog/cms-statistics)
 
 ---
 
