@@ -217,7 +217,7 @@ List of LMS<sup>[1](#status)</sup> (Learning Management System) sorted by alphab
 | Kolibri        | Python           | <https://github.com/learningequality/kolibri> | <https://learningequality.org/kolibri> | -   | MIT         |
 | LearnHouse ⚠️  | React, Python    | <https://github.com/learnhouse/learnhouse>    | <https://www.learnhouse.app>           | -   | AGPL-3.0    |
 | Leemons        | Node.js          | <https://github.com/leemonade/leemons>        | <https://www.leemons.io>               | -   | Proprietary |
-| Mentingo       | NestJS, React    | <https://github.com/Selleo/mentingo>          | <https://mentingo.com>                 | -   | MIT         |
+| Mentingo       | NestJS, React    | <https://github.com/Selleo/mentingo>          | <https://mentingo.com>                 | [Yes](https://github.com/Selleo/mentingo/blob/main/docs/mcp.md) | MIT         |
 | Moodle         | JS, PHP          | <https://github.com/moodle/moodle>            | <https://moodle.org>                   | -   | GPL-3.0     |
 | odoo eLearning | Python           | <https://github.com/odoo/odoo>                | <https://www.odoo.com/app/elearning>   | -   | LGPL-3.0    |
 | Open edX       | JS, Python       | <https://github.com/openedx/edx-platform>     | <https://openedx.org>                  | -   | AGPL-3.0    |
