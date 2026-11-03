@@ -9,30 +9,8 @@
 
 ## Signed commits
 
-For safety reasons, every commit in a PR must be **signed** and shown as
-**Verified** on GitHub. PRs that contain unsigned or unverified commits fail the
-`Signed Commits` check and will not be merged.
-
-You can sign commits with GPG, SSH or S/MIME. For example, with an SSH key:
-
-```sh
-git config --global gpg.format ssh
-git config --global user.signingkey ~/.ssh/id_ed25519.pub
-git config --global commit.gpgsign true
-```
-
-Then add the same key to your GitHub account as a **Signing Key**
-(Settings → SSH and GPG keys). The commit email must match a verified email of
-your GitHub account.
-
-To sign commits you already pushed, re-sign them and force-push your branch:
-
-```sh
-git rebase --exec 'git commit --amend --no-edit -S' origin/master
-git push --force-with-lease
-```
-
-See the GitHub docs: [About commit signature verification](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification).
+- Every commit must be signed with a valid GPG signing key
+- See [About commit signature verification](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
 
 ## Minimum requirements for new entries
 
