@@ -45,23 +45,30 @@ export default async function prSpamGuard({ github, core, context }) {
     .catch(() => ({ data: { items: [] } }));
 
   // 4. Build report
-  const flags = [];
+  // 🚨 blocking flags fail the job (and request changes), ⚠️ are advisory
+  /** @type {string[]} */
+  const blocking = [];
+  /** @type {string[]} */
+  const advisory = [];
   if (accountAgeDays <= 180) {
-    flags.push(`🚨 Account is only **${accountAgeDays} days old**`);
+    blocking.push(
+      `🚨 Account is only **${accountAgeDays} days old** (must be older than 180 days)`
+    );
   }
   if (user.followers === 0) {
-    flags.push(`⚠️ Account has **0 followers**`);
+    advisory.push(`⚠️ Account has **0 followers**`);
   }
   if (accountAgeDays <= 360 && recentPRs.length >= 10) {
-    flags.push(
+    advisory.push(
       `⚠️ Submitter has **${recentPRs.length} PRs in the last 14 days**`
     );
   }
   if (titleHits.data.items.length > 3) {
-    flags.push(
+    blocking.push(
       `🚨 Identical title submitted to **${titleHits.data.items.length} repos** by the same author`
     );
   }
+  const flags = [...blocking, ...advisory];
 
   // Very new account blasting PRs: close automatically (maintainers can reopen)
   const shouldClose = accountAgeDays <= 30 && recentPRs.length >= 30;
@@ -77,7 +84,9 @@ export default async function prSpamGuard({ github, core, context }) {
     ``,
     shouldClose
       ? `⛔ This PR was **closed automatically**: the account is ${accountAgeDays} days old with ${recentPRs.length} PRs in the last 14 days. A maintainer can reopen it if this was a mistake.`
-      : `_This is an advisory. Maintainer judgement is required to merge or close._`,
+      : blocking.length > 0
+        ? `❌ Blocking red flags found: changes are requested until a maintainer reviews this PR.`
+        : `_Warnings are advisory. Maintainer judgement is required to merge or close._`,
   ]
     .filter(Boolean)
     .join("\n");
@@ -115,5 +124,12 @@ export default async function prSpamGuard({ github, core, context }) {
         "Could not close the PR (read-only token); close it manually."
       );
     }
+  }
+
+  core.setOutput("closed", String(shouldClose));
+  if (blocking.length > 0) {
+    core.setFailed(
+      `PR Spam Guard found ${blocking.length} blocking red flag(s); see the job summary.`
+    );
   }
 }
