@@ -40,7 +40,7 @@ List of curated CMS, ERP, LMS and Admin CMS
 List of Admin CMS<sup>[1](#status)</sup> (Content Management System for Admin Dashboards) sorted by alphabetically
 
 | Name             | Framework      | Repository                                     | Website                                 | MCP | License  |
-| ---------------- | -------------- | ---------------------------------------------- | --------------------------------------- | --- | -------- |
+|------------------|----------------|------------------------------------------------|-----------------------------------------|-----|----------|
 | ActiveAdmin      | Ruby-on-Rails  | <https://github.com/activeadmin/activeadmin>   | <https://activeadmin.info>              | -   | MIT      |
 | AdminJS          | React, Node.js | <https://github.com/SoftwareBrothers/adminjs>  | <https://adminjs.co>                    | -   | MIT      |
 | Lowdefy          | React, Node.js | <https://github.com/lowdefy/lowdefy>           | <https://lowdefy.com>                   | -   | BUSL-1.1 |
@@ -54,33 +54,33 @@ List of Admin CMS<sup>[1](#status)</sup> (Content Management System for Admin Da
 
 List of Headless CMS<sup>[1](#status)</sup> (Headless Content Management System) sorted by alphabetically
 
-| Name          | Framework      | Repository                                    | Website                                      | MCP                                                                     | License      |
-| ------------- | -------------- | --------------------------------------------- | -------------------------------------------- | ----------------------------------------------------------------------- | ------------ |
-| Apostrophe    | Vue, Node.js   | <https://github.com/apostrophecms/apostrophe> | <https://apostrophecms.com>                  | -                                                                       | MIT\*        |
-| Cockpit       | PHP            | <https://github.com/Cockpit-HQ/Cockpit>       | <https://getcockpit.com>                     | -                                                                       | MIT          |
-| Contentful 💲 | -              | -                                             | <https://www.contentful.com>                 | [Yes](https://github.com/contentful/contentful-mcp-server)              | -            |
-| Decap         | React, Node.js | <https://github.com/decaporg/decap-cms>       | <https://decapcms.org>                       | -                                                                       | MIT          |
-| dotCMS        | Java           | <https://github.com/dotCMS/core>              | <https://www.dotcms.com>                     | -                                                                       | GPL-3.0      |
-| hygraph 💲    | -              | -                                             | <https://hygraph.com>                        | Yes                                                                     | -            |
-| Keystone      | React, Node.js | <https://github.com/keystonejs/keystone>      | <https://keystonejs.com>                     | -                                                                       | MIT          |
-| LightCMS      | Go             | <https://github.com/jonradoff/lightcms>       | <https://metavert.io>                        | Yes                                                                     | MIT          |
-| Orchard Core  | C#             | <https://github.com/OrchardCMS/OrchardCore>   | <https://docs.orchardcore.net>               | -                                                                       | BSD-3-Clause |
-| Payload       | React, GraphQL | <https://github.com/payloadcms/payload>       | <https://payloadcms.com>                     | [Yes](https://payloadcms.com/docs/plugins/mcp)                          | MIT          |
-| Piranha       | C#             | <https://github.com/PiranhaCMS/piranha.core>  | <https://piranhacms.org>                     | -                                                                       | MIT          |
-| Sanity        | React          | <https://github.com/sanity-io/sanity>         | <https://www.sanity.io>                      | [Yes](https://github.com/sanity-io/sanity-mcp-server)                   | MIT          |
-| squidex       | React, C#      | <https://github.com/Squidex/squidex>          | <https://squidex.io>                         | -                                                                       | MIT          |
-| Strapi        | React, Node.js | <https://github.com/strapi/strapi>            | <https://strapi.io>                          | [Yes](https://market.strapi.io/plugins/@sensinum-strapi-plugin-mcp)     | MIT\*        |
-| tinacms       | React, Node.js | <https://github.com/tinacms/tinacms>          | <https://tina.io>                            | -                                                                       | Apache-2.0   |
-| wagtail       | React, Python  | <https://github.com/wagtail/wagtail>          | <https://wagtail.org>                        | -                                                                       | BSD-3-Clause |
-| webiny-js     | React, Node.js | <https://github.com/webiny/webiny-js>         | <https://www.webiny.com>                     | -                                                                       | MIT\*        |
-| YunCMS        | React, Node.js | <https://github.com/Yunsoft-Software/yuncms>  | <https://yunsoft.com>                        | [Yes](https://github.com/Yunsoft-Software/yuncms/blob/main/docs/mcp.md) | MIT          |
+| Name          | Framework      | Repository                                    | Website                        | MCP                                                                     | License      |
+|---------------|----------------|-----------------------------------------------|--------------------------------|-------------------------------------------------------------------------|--------------|
+| Apostrophe    | Vue, Node.js   | <https://github.com/apostrophecms/apostrophe> | <https://apostrophecms.com>    | -                                                                       | MIT\*        |
+| Cockpit       | PHP            | <https://github.com/Cockpit-HQ/Cockpit>       | <https://getcockpit.com>       | -                                                                       | MIT          |
+| Contentful 💲 | -              | -                                             | <https://www.contentful.com>   | [Yes](https://github.com/contentful/contentful-mcp-server)              | -            |
+| Decap         | React, Node.js | <https://github.com/decaporg/decap-cms>       | <https://decapcms.org>         | -                                                                       | MIT          |
+| dotCMS        | Java           | <https://github.com/dotCMS/core>              | <https://www.dotcms.com>       | -                                                                       | GPL-3.0      |
+| hygraph 💲    | -              | -                                             | <https://hygraph.com>          | Yes                                                                     | -            |
+| Keystone      | React, Node.js | <https://github.com/keystonejs/keystone>      | <https://keystonejs.com>       | -                                                                       | MIT          |
+| LightCMS      | Go             | <https://github.com/jonradoff/lightcms>       | <https://metavert.io>          | Yes                                                                     | MIT          |
+| Orchard Core  | C#             | <https://github.com/OrchardCMS/OrchardCore>   | <https://docs.orchardcore.net> | -                                                                       | BSD-3-Clause |
+| Payload       | React, GraphQL | <https://github.com/payloadcms/payload>       | <https://payloadcms.com>       | [Yes](https://payloadcms.com/docs/plugins/mcp)                          | MIT          |
+| Piranha       | C#             | <https://github.com/PiranhaCMS/piranha.core>  | <https://piranhacms.org>       | -                                                                       | MIT          |
+| Sanity        | React          | <https://github.com/sanity-io/sanity>         | <https://www.sanity.io>        | [Yes](https://github.com/sanity-io/sanity-mcp-server)                   | MIT          |
+| squidex       | React, C#      | <https://github.com/Squidex/squidex>          | <https://squidex.io>           | -                                                                       | MIT          |
+| Strapi        | React, Node.js | <https://github.com/strapi/strapi>            | <https://strapi.io>            | [Yes](https://market.strapi.io/plugins/@sensinum-strapi-plugin-mcp)     | MIT\*        |
+| tinacms       | React, Node.js | <https://github.com/tinacms/tinacms>          | <https://tina.io>              | -                                                                       | Apache-2.0   |
+| wagtail       | React, Python  | <https://github.com/wagtail/wagtail>          | <https://wagtail.org>          | -                                                                       | BSD-3-Clause |
+| webiny-js     | React, Node.js | <https://github.com/webiny/webiny-js>         | <https://www.webiny.com>       | -                                                                       | MIT\*        |
+| YunCMS        | React, Node.js | <https://github.com/Yunsoft-Software/yuncms>  | <https://yunsoft.com>          | [Yes](https://github.com/Yunsoft-Software/yuncms/blob/main/docs/mcp.md) | MIT          |
 
 ## DB-as-CMS
 
 List of DB-as-CMS<sup>[1](#status)</sup> (Database as a Content Management System) sorted by alphabetically
 
 | Name         | Framework       | Repository                                        | Website                    | MCP                                             | License    |
-| ------------ | --------------- | ------------------------------------------------- | -------------------------- | ----------------------------------------------- | ---------- |
+|--------------|-----------------|---------------------------------------------------|----------------------------|-------------------------------------------------|------------|
 | AtomicServer | Multiple, Rust  | <https://github.com/atomicdata-dev/atomic-server> | <https://atomicserver.eu>  |                                                 | MIT        |
 | Baserow      | Vue, Python     | <https://gitlab.com/baserow/baserow>              | <https://baserow.io>       | -                                               | MIT        |
 | directus     | Vue, Node.js    | <https://github.com/directus/directus>            | <https://directus.io>      | [Yes](https://directus.io/mcp)                  | BUSL 1.1   |
@@ -94,7 +94,7 @@ List of DB-as-CMS<sup>[1](#status)</sup> (Database as a Content Management Syste
 List of Traditional CMS<sup>[1](#status)</sup> (Content Management System) sorted by alphabetically
 
 | Name         | Framework       | Repository                                               | Website                        | MCP                                                                                                     | License      |
-| ------------ | --------------- | -------------------------------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------------------------- | ------------ |
+|--------------|-----------------|----------------------------------------------------------|--------------------------------|---------------------------------------------------------------------------------------------------------|--------------|
 | Bolt         | PHP             | <https://github.com/bolt/core>                           | <https://boltcms.io>           | -                                                                                                       | MIT          |
 | Concrete CMS | PHP             | <https://github.com/concretecms/concretecms>             | <https://www.concretecms.org>  | -                                                                                                       | MIT          |
 | Django       | jQuery, Python  | <https://github.com/django-cms/django-cms>               | <https://django-cms.org>       | -                                                                                                       | BSD-3-Clause |
@@ -102,7 +102,7 @@ List of Traditional CMS<sup>[1](#status)</sup> (Content Management System) sorte
 | Ghost        | React, Node.js  | <https://github.com/TryGhost/Ghost>                      | <https://ghost.org>            | -                                                                                                       | MIT          |
 | Grav         | PHP             | <https://github.com/getgrav/grav>                        | <https://getgrav.org>          | -                                                                                                       | MIT          |
 | Joomla       | PHP             | <https://github.com/joomla/joomla-cms>                   | <https://www.joomla.org>       | -                                                                                                       | GPL-2.0      |
-| NextBlock    | React, Node.js | <https://github.com/nextblock-cms/nextblock>              | <https://nextblock.dev>        | -                                                                                                       | AGPL-3.0     |
+| NextBlock    | React, Node.js  | <https://github.com/nextblock-cms/nextblock>             | <https://nextblock.dev>        | -                                                                                                       | AGPL-3.0     |
 | October      | Vue, PHP        | <https://github.com/octobercms/october>                  | <https://octobercms.com>       | -                                                                                                       | Proprietary  |
 | Pala         | Svelte, Node.js | <https://github.com/palacms/palacms>                     | <https://primocms.org>         | -                                                                                                       | MIT          |
 | Pico ⛔️      | PHP             | <https://github.com/picocms/Pico>                        | <https://picocms.org>          | -                                                                                                       | MIT          |
@@ -120,7 +120,7 @@ List of Traditional CMS<sup>[1](#status)</sup> (Content Management System) sorte
 List of Code CMS<sup>[1](#status)</sup> (Content Management System) sorted by alphabetically
 
 | Name      | Framework  | Repository                           | Website                   | MCP                                                     | License |
-| --------- | ---------- | ------------------------------------ | ------------------------- | ------------------------------------------------------- | ------- |
+|-----------|------------|--------------------------------------|---------------------------|---------------------------------------------------------|---------|
 | Astro     | JavaScript | <https://github.com/withastro/astro> | <https://astro.build>     | [Yes](https://docs.astro.build/en/guides/build-with-ai) | MIT     |
 | VitePress | Vue        | <https://github.com/vuejs/vitepress> | <https://vitepress.dev>   | -                                                       | MIT     |
 | Zola      | Rust       | <https://github.com/getzola/zola>    | <https://www.getzola.org> | -                                                       | MIT     |
@@ -130,14 +130,14 @@ List of Code CMS<sup>[1](#status)</sup> (Content Management System) sorted by al
 List of ERP<sup>[1](#status)</sup> (Enterprise Resource Planning) sorted by alphabetically
 
 | Name           | Framework      | Repository                                    | Website                       | MCP | License    |
-| -------------- | -------------- | --------------------------------------------- | ----------------------------- | --- | ---------- |
+|----------------|----------------|-----------------------------------------------|-------------------------------|-----|------------|
 | Apache OFBiz   | Java           | <https://github.com/apache/ofbiz-framework>   | <https://ofbiz.apache.org>    | -   | Apache-2.0 |
 | Axelor         | Java           | <https://github.com/axelor/axelor-open-suite> | <https://axelor.com>          | -   | GPL-3.0    |
 | Dolibarr       | PHP            | <https://github.com/dolibarr/dolibarr>        | <https://www.dolibarr.org>    | -   | GPL-3.0    |
 | ERPNext        | Vue, Python    | <https://github.com/frappe/erpnext>           | <https://frappe.io/erpnext>   | -   | GPL-3.0    |
 | Flectra        | Python         | <https://gitlab.com/flectra-hq/flectra>       | <https://flectrahq.com>       | -   | LGPL-3.0   |
-| IDURAR CRM     | React, Node.js | <https://github.com/idurar/idurar-erp-crm>    | <https://cloud.idurarapp.com> | -   | AGPL-3.0   |
 | iDempiere      | Java           | <https://github.com/idempiere/idempiere>      | <https://idempiere.org>       | -   | GPL-2.0    |
+| IDURAR CRM     | React, Node.js | <https://github.com/idurar/idurar-erp-crm>    | <https://cloud.idurarapp.com> | -   | AGPL-3.0   |
 | IOTA SDK       | Go, htmlx      | <https://github.com/iota-uz/iota-sdk>         | <https://www.iota.uz/en>      | -   | Apache-2.0 |
 | Metasfresh     | Java, React    | <https://github.com/metasfresh/metasfresh>    | <https://metasfresh.com>      | -   | GPL-2.0    |
 | Odoo Community | Python         | <https://github.com/odoo/odoo>                | <https://www.odoo.com>        | -   | LGPL-3.0   |
@@ -148,7 +148,7 @@ List of ERP<sup>[1](#status)</sup> (Enterprise Resource Planning) sorted by alph
 List of EMR<sup>[1](#status)</sup> (Electronic Medical Record) sorted by alphabetically
 
 | Name            | Framework      | Repository                                                  | Website                       | MCP | License    |
-| --------------- | -------------- | ----------------------------------------------------------- | ----------------------------- | --- | ---------- |
+|-----------------|----------------|-------------------------------------------------------------|-------------------------------|-----|------------|
 | Bahmni Apps     | AngularJS      | <https://github.com/Bahmni/openmrs-module-bahmniapps>       | <https://www.bahmni.org>      | -   | AGPL-3.0   |
 | Beda EMR        | React, Node.js | <https://github.com/beda-software/fhir-emr>                 | -                             | -   | MIT        |
 | Care (OHC)      | React, Django  | <https://github.com/ohcnetwork/care>                        | <https://ohc.network>         | -   | MIT        |
@@ -171,7 +171,7 @@ List of EMR<sup>[1](#status)</sup> (Electronic Medical Record) sorted by alphabe
 List of CRM<sup>[1](#status)</sup> (Customer Relationship Management) sorted by alphabetically
 
 | Name          | Framework          | Repository                                      | Website                           | MCP | License    |
-| ------------- | ------------------ | ----------------------------------------------- | --------------------------------- | --- | ---------- |
+|---------------|--------------------|-------------------------------------------------|-----------------------------------|-----|------------|
 | Akaunting     | Vue, Laravel       | <https://github.com/akaunting/akaunting>        | <https://akaunting.com>           | -   | BSL-1.1    |
 | ArcSolar 💲   | -                  | -                                               | <https://www.arcsolar.com.au/>    | -   | -          |
 | Atomic CRM    | React, Node.js     | <https://github.com/marmelab/atomic-crm>        | <https://marmelab.com/atomic-crm> | -   | MIT        |
@@ -199,43 +199,43 @@ List of CRM<sup>[1](#status)</sup> (Customer Relationship Management) sorted by 
 
 List of LMS<sup>[1](#status)</sup> (Learning Management System) sorted by alphabetically
 
-| Name           | Framework        | Repository                                    | Website                                | MCP | License     |
-| -------------- | ---------------- | --------------------------------------------- | -------------------------------------- | --- | ----------- |
-| absorb 💲      | -                | -                                             | <https://www.absorblms.com>            | -   | -           |
-| Anubis         | React, Python    | <https://github.com/AnubisLMS/Anubis>         | <https://about.anubis-lms.io>          | -   | MIT         |
-| ATutor ⛔️      | PHP              | <https://github.com/atutor/ATutor>            | <https://atutor.github.io>             | -   | GPL-3.0     |
-| Canvas LMS     | Ruby, jQuery     | <https://github.com/instructure/canvas-lms>   | <https://www.instructure.com/canvas>   | -   | AGPL-3.0    |
-| Chamilo ⚠️     | PHP, Vue         | <https://github.com/chamilo/chamilo-lms>      | <https://chamilo.org>                  | -   | GPL-3.0     |
-| ClassroomIO    | Svelte, Hono(JS) | <https://github.com/classroomio/classroomio>  | <https://classroomio.com>              | -   | AGPL-3.0    |
-| CourseLit      | React, Node.js   | <https://github.com/codelitdev/courselit>     | <https://courselit.app>                | -   | AGPL-3.0    |
-| djangoCMS ⛔️   | Django           | <https://github.com/adilmohak/django-lms>     | -                                      | -   | MIT         |
-| docebo 💲      | -                | -                                             | <https://www.docebo.com>               | -   | -           |
-| ELMS           | Drupal           | <https://github.com/elmsln/elmsln>            | -                                      | -   | GPL-3.0     |
-| forma.lms      | PHP, jQuery      | <https://github.com/formalms/formalms>        | <https://www.formalms.org>             | -   | GPL-3.0     |
-| Frappe         | Python, Vue      | <https://github.com/frappe/lms>               | <https://frappe.io/learning>           | -   | AGPL-3.0    |
-| ILIAS          | PHP              | <https://github.com/ILIAS-eLearning/ILIAS>    | <https://www.ilias.de>                 | -   | GPL-3.0     |
-| Kolibri        | Python           | <https://github.com/learningequality/kolibri> | <https://learningequality.org/kolibri> | -   | MIT         |
-| LearnHouse ⚠️  | React, Python    | <https://github.com/learnhouse/learnhouse>    | <https://www.learnhouse.app>           | -   | AGPL-3.0    |
-| Leemons        | Node.js          | <https://github.com/leemonade/leemons>        | <https://www.leemons.io>               | -   | Proprietary |
+| Name           | Framework        | Repository                                    | Website                                | MCP                                                             | License     |
+|----------------|------------------|-----------------------------------------------|----------------------------------------|-----------------------------------------------------------------|-------------|
+| absorb 💲      | -                | -                                             | <https://www.absorblms.com>            | -                                                               | -           |
+| Anubis         | React, Python    | <https://github.com/AnubisLMS/Anubis>         | <https://about.anubis-lms.io>          | -                                                               | MIT         |
+| ATutor ⛔️      | PHP              | <https://github.com/atutor/ATutor>            | <https://atutor.github.io>             | -                                                               | GPL-3.0     |
+| Canvas LMS     | Ruby, jQuery     | <https://github.com/instructure/canvas-lms>   | <https://www.instructure.com/canvas>   | -                                                               | AGPL-3.0    |
+| Chamilo ⚠️     | PHP, Vue         | <https://github.com/chamilo/chamilo-lms>      | <https://chamilo.org>                  | -                                                               | GPL-3.0     |
+| ClassroomIO    | Svelte, Hono(JS) | <https://github.com/classroomio/classroomio>  | <https://classroomio.com>              | -                                                               | AGPL-3.0    |
+| CourseLit      | React, Node.js   | <https://github.com/codelitdev/courselit>     | <https://courselit.app>                | -                                                               | AGPL-3.0    |
+| djangoCMS ⛔️   | Django           | <https://github.com/adilmohak/django-lms>     | -                                      | -                                                               | MIT         |
+| docebo 💲      | -                | -                                             | <https://www.docebo.com>               | -                                                               | -           |
+| ELMS           | Drupal           | <https://github.com/elmsln/elmsln>            | -                                      | -                                                               | GPL-3.0     |
+| forma.lms      | PHP, jQuery      | <https://github.com/formalms/formalms>        | <https://www.formalms.org>             | -                                                               | GPL-3.0     |
+| Frappe         | Python, Vue      | <https://github.com/frappe/lms>               | <https://frappe.io/learning>           | -                                                               | AGPL-3.0    |
+| ILIAS          | PHP              | <https://github.com/ILIAS-eLearning/ILIAS>    | <https://www.ilias.de>                 | -                                                               | GPL-3.0     |
+| Kolibri        | Python           | <https://github.com/learningequality/kolibri> | <https://learningequality.org/kolibri> | -                                                               | MIT         |
+| LearnHouse ⚠️  | React, Python    | <https://github.com/learnhouse/learnhouse>    | <https://www.learnhouse.app>           | -                                                               | AGPL-3.0    |
+| Leemons        | Node.js          | <https://github.com/leemonade/leemons>        | <https://www.leemons.io>               | -                                                               | Proprietary |
 | Mentingo       | NestJS, React    | <https://github.com/Selleo/mentingo>          | <https://mentingo.com>                 | [Yes](https://github.com/Selleo/mentingo/blob/main/docs/mcp.md) | MIT         |
-| Moodle         | JS, PHP          | <https://github.com/moodle/moodle>            | <https://moodle.org>                   | -   | GPL-3.0     |
-| odoo eLearning | Python           | <https://github.com/odoo/odoo>                | <https://www.odoo.com/app/elearning>   | -   | LGPL-3.0    |
-| Open edX       | JS, Python       | <https://github.com/openedx/edx-platform>     | <https://openedx.org>                  | -   | AGPL-3.0    |
-| Opigno ⛔️      | Drupal           | <https://github.com/opigno/opigno>            | <https://www.opigno.org>               | -   | -           |
-| pupilfirst     | Ruby             | <https://github.com/pupilfirst/pupilfirst>    | <https://www.pupilfirst.org>           | -   | MIT\*       |
-| RELATE         | Python           | <https://github.com/inducer/relate>           | <https://documen.tician.de/relate/>    | -   | MIT         |
-| Sakai          | Java             | <https://github.com/sakaiproject/sakai>       | <https://www.sakailms.org>             | -   | ECL-2.0     |
-| Sensei LMS     | WordPress, PHP   | <https://github.com/Automattic/sensei>        | <https://senseilms.com>                | -   | GPL-2.0     |
-| SkyLearn ⚠️    | Python           | <https://github.com/SkyCascade/SkyLearn>      | -                                      | -   | MIT         |
-| talentlms 💲   | -                | -                                             | <https://www.talentlms.com/platform>   | -   | -           |
-| ULEARN ⛔️      | React, Laravel   | <https://github.com/ulearnpro/ulearn>         | -                                      | -   | MIT         |
+| Moodle         | JS, PHP          | <https://github.com/moodle/moodle>            | <https://moodle.org>                   | -                                                               | GPL-3.0     |
+| odoo eLearning | Python           | <https://github.com/odoo/odoo>                | <https://www.odoo.com/app/elearning>   | -                                                               | LGPL-3.0    |
+| Open edX       | JS, Python       | <https://github.com/openedx/edx-platform>     | <https://openedx.org>                  | -                                                               | AGPL-3.0    |
+| Opigno ⛔️      | Drupal           | <https://github.com/opigno/opigno>            | <https://www.opigno.org>               | -                                                               | -           |
+| pupilfirst     | Ruby             | <https://github.com/pupilfirst/pupilfirst>    | <https://www.pupilfirst.org>           | -                                                               | MIT\*       |
+| RELATE         | Python           | <https://github.com/inducer/relate>           | <https://documen.tician.de/relate/>    | -                                                               | MIT         |
+| Sakai          | Java             | <https://github.com/sakaiproject/sakai>       | <https://www.sakailms.org>             | -                                                               | ECL-2.0     |
+| Sensei LMS     | WordPress, PHP   | <https://github.com/Automattic/sensei>        | <https://senseilms.com>                | -                                                               | GPL-2.0     |
+| SkyLearn ⚠️    | Python           | <https://github.com/SkyCascade/SkyLearn>      | -                                      | -                                                               | MIT         |
+| talentlms 💲   | -                | -                                             | <https://www.talentlms.com/platform>   | -                                                               | -           |
+| ULEARN ⛔️      | React, Laravel   | <https://github.com/ulearnpro/ulearn>         | -                                      | -                                                               | MIT         |
 
 ## Low/No-code solutions
 
 List of Low/No-code<sup>[1](#status)</sup> solutions sorted by alphabetically
 
 | Name         | Framework      | Repository                                     | Website                        | MCP | License    |
-| ------------ | -------------- | ---------------------------------------------- | ------------------------------ | --- | ---------- |
+|--------------|----------------|------------------------------------------------|--------------------------------|-----|------------|
 | Activepieces | React, Node.js | <https://github.com/activepieces/activepieces> | <https://www.activepieces.com> | -   | MIT        |
 | appsmith     | React, Java    | <https://github.com/appsmithorg/appsmith>      | <https://www.appsmith.com>     | -   | Apache-2.0 |
 | Budibase     | Svelte         | <https://github.com/Budibase/budibase>         | <https://budibase.com>         | -   | GPL-3.0    |
@@ -251,7 +251,7 @@ List of Low/No-code<sup>[1](#status)</sup> solutions sorted by alphabetically
 List of Blog<sup>[1](#status)</sup> framework, tools or services sorted by alphabetically
 
 | Name        | Framework | Repository                               | Website                   | MCP | License |
-| ----------- | --------- | ---------------------------------------- | ------------------------- | --- | ------- |
+|-------------|-----------|------------------------------------------|---------------------------|-----|---------|
 | Docusaurus  | React     | <https://github.com/facebook/docusaurus> | <https://docusaurus.io>   | -   | MIT     |
 | JustBlogged | -         | -                                        | <https://justblogged.com> | -   | -       |
 
@@ -260,7 +260,7 @@ List of Blog<sup>[1](#status)</sup> framework, tools or services sorted by alpha
 List of frameworks<sup>[1](#status)</sup> sorted by alphabetically
 
 | Name          | Framework           | Repository                                | Website                | MCP | License    |
-| ------------- | ------------------- | ----------------------------------------- | ---------------------- | --- | ---------- |
+|---------------|---------------------|-------------------------------------------|------------------------|-----|------------|
 | AdonisJS      | Node.js             | <https://github.com/adonisjs/core>        | <https://adonisjs.com> | -   | MIT        |
 | Backstage     | React, Node.js      | <https://github.com/backstage/backstage>  | <https://backstage.io> | -   | Apache-2.0 |
 | Blitz         | React               | <https://github.com/blitz-js/blitz>       | <https://blitzjs.com>  | -   | MIT        |
